@@ -1,0 +1,1780 @@
+fileFormatVersion: 2
+guid: d334000cbd1786741b3a1012266f5dc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8632290436570693088
+    second: tormentend souls - all spritesheets_0
+  - first:
+      213: 1968644489501053883
+    second: tormentend souls - all spritesheets_1
+  - first:
+      213: -5514657566403194845
+    second: tormentend souls - all spritesheets_2
+  - first:
+      213: 2320953145668887181
+    second: tormentend souls - all spritesheets_3
+  - first:
+      213: -2424639466978839263
+    second: tormentend souls - all spritesheets_4
+  - first:
+      213: -3416603667102323619
+    second: tormentend souls - all spritesheets_5
+  - first:
+      213: -1289514196629958211
+    second: tormentend souls - all spritesheets_6
+  - first:
+      213: 6096074290081900631
+    second: tormentend souls - all spritesheets_7
+  - first:
+      213: 5384601889831065274
+    second: tormentend souls - all spritesheets_8
+  - first:
+      213: 6318162991277129466
+    second: tormentend souls - all spritesheets_9
+  - first:
+      213: -2926234634401163492
+    second: tormentend souls - all spritesheets_10
+  - first:
+      213: 2811781213817330956
+    second: tormentend souls - all spritesheets_11
+  - first:
+      213: 2424311914330750659
+    second: tormentend souls - all spritesheets_12
+  - first:
+      213: 854950737024306450
+    second: tormentend souls - all spritesheets_13
+  - first:
+      213: -2040353145046907639
+    second: tormentend souls - all spritesheets_14
+  - first:
+      213: -3275955787781139989
+    second: tormentend souls - all spritesheets_15
+  - first:
+      213: -3091235256483295284
+    second: tormentend souls - all spritesheets_16
+  - first:
+      213: -6213275284806974102
+    second: tormentend souls - all spritesheets_17
+  - first:
+      213: -3172455663650937689
+    second: tormentend souls - all spritesheets_18
+  - first:
+      213: -7702504593142106087
+    second: tormentend souls - all spritesheets_19
+  - first:
+      213: 4445215685864210322
+    second: tormentend souls - all spritesheets_20
+  - first:
+      213: 6396811611348403071
+    second: tormentend souls - all spritesheets_21
+  - first:
+      213: 6431437214440456367
+    second: tormentend souls - all spritesheets_22
+  - first:
+      213: -8797292554359166450
+    second: tormentend souls - all spritesheets_23
+  - first:
+      213: 6338664476050302709
+    second: tormentend souls - all spritesheets_24
+  - first:
+      213: -8600625460233384964
+    second: tormentend souls - all spritesheets_25
+  - first:
+      213: -5999136096929611445
+    second: tormentend souls - all spritesheets_26
+  - first:
+      213: -6850638817092671191
+    second: tormentend souls - all spritesheets_27
+  - first:
+      213: 9106892588600555546
+    second: tormentend souls - all spritesheets_28
+  - first:
+      213: 9019717222743458163
+    second: tormentend souls - all spritesheets_29
+  - first:
+      213: 3125018536796561446
+    second: tormentend souls - all spritesheets_30
+  - first:
+      213: -7755168750129366548
+    second: tormentend souls - all spritesheets_31
+  - first:
+      213: -7227904742716474331
+    second: tormentend souls - all spritesheets_32
+  - first:
+      213: -5272996775780792508
+    second: tormentend souls - all spritesheets_33
+  - first:
+      213: 5505738820011705778
+    second: tormentend souls - all spritesheets_34
+  - first:
+      213: -6219165873607382634
+    second: tormentend souls - all spritesheets_35
+  - first:
+      213: 8284806221585008120
+    second: tormentend souls - all spritesheets_36
+  - first:
+      213: -2565291366452379188
+    second: tormentend souls - all spritesheets_37
+  - first:
+      213: 6397373199025847866
+    second: tormentend souls - all spritesheets_38
+  - first:
+      213: 8233973641639705066
+    second: tormentend souls - all spritesheets_39
+  - first:
+      213: 3939163140707425108
+    second: tormentend souls - all spritesheets_40
+  - first:
+      213: 2285746928187140063
+    second: tormentend souls - all spritesheets_41
+  - first:
+      213: 4290375049406084261
+    second: tormentend souls - all spritesheets_42
+  - first:
+      213: 7806949837573538946
+    second: tormentend souls - all spritesheets_43
+  - first:
+      213: -885092436137543555
+    second: tormentend souls - all spritesheets_44
+  - first:
+      213: -2274842794059277189
+    second: tormentend souls - all spritesheets_45
+  - first:
+      213: 2526952758348789946
+    second: tormentend souls - all spritesheets_46
+  - first:
+      213: 5187718987642629914
+    second: tormentend souls - all spritesheets_47
+  - first:
+      213: 8278438643411072508
+    second: tormentend souls - all spritesheets_48
+  - first:
+      213: 5611556930543195424
+    second: tormentend souls - all spritesheets_49
+  - first:
+      213: 6405403261700161421
+    second: tormentend souls - all spritesheets_50
+  - first:
+      213: -2782193442355843648
+    second: tormentend souls - all spritesheets_51
+  - first:
+      213: 3988602832023702120
+    second: tormentend souls - all spritesheets_52
+  - first:
+      213: 1581136924978263930
+    second: tormentend souls - all spritesheets_53
+  - first:
+      213: 7600932247928246150
+    second: tormentend souls - all spritesheets_54
+  - first:
+      213: 4339640866869030883
+    second: tormentend souls - all spritesheets_55
+  - first:
+      213: -9096226883797932007
+    second: tormentend souls - all spritesheets_56
+  - first:
+      213: -4990634497385977619
+    second: tormentend souls - all spritesheets_57
+  - first:
+      213: 8988100134170880105
+    second: tormentend souls - all spritesheets_58
+  - first:
+      213: -5810345243359758905
+    second: tormentend souls - all spritesheets_59
+  - first:
+      213: -4695385540487536513
+    second: tormentend souls - all spritesheets_60
+  - first:
+      213: -8280255267746608707
+    second: tormentend souls - all spritesheets_61
+  - first:
+      213: -7146523001641206811
+    second: tormentend souls - all spritesheets_62
+  - first:
+      213: -3989582357832887762
+    second: tormentend souls - all spritesheets_63
+  - first:
+      213: -8010296378938853491
+    second: tormentend souls - all spritesheets_64
+  - first:
+      213: 645555803214808200
+    second: tormentend souls - all spritesheets_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 780
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed3ccd8a6e0cc770800000000000000
+      internalID: 8632290436570693088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 799
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb39dbd9bb7025b10800000000000000
+      internalID: 1968644489501053883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 848
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3201e9849200873b0800000000000000
+      internalID: -5514657566403194845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 848
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d826bebc69ea53020800000000000000
+      internalID: 2320953145668887181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 846
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12575564043f95ed0800000000000000
+      internalID: -2424639466978839263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 834
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ca1141119c590d0800000000000000
+      internalID: -3416603667102323619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 832
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db15c099ba9ba1ee0800000000000000
+      internalID: -1289514196629958211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 832
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75829b8b44b999450800000000000000
+      internalID: 6096074290081900631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 834
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab61744d3e2f9ba40800000000000000
+      internalID: 5384601889831065274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 834
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb718f3cf9ea750800000000000000
+      internalID: 6318162991277129466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 834
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17d2179a1de367d0800000000000000
+      internalID: -2926234634401163492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 832
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd2b3dd14750720800000000000000
+      internalID: 2811781213817330956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 834
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7e6e67d2e4a120800000000000000
+      internalID: 2424311914330750659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 807
+        width: 186
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dcac46a256ddb00800000000000000
+      internalID: 854950737024306450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905c025ff953fa3e0800000000000000
+      internalID: -2040353145046907639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 769
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be19b6951977982d0800000000000000
+      internalID: -3275955787781139989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 769
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf462c89e9b915d0800000000000000
+      internalID: -3091235256483295284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 780
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65cd5d3c0306c9a0800000000000000
+      internalID: -6213275284806974102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 769
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e86ed16c29f3d0800000000000000
+      internalID: -3172455663650937689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 769
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91833f4d1e43b1590800000000000000
+      internalID: -7702504593142106087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 780
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f3ee15d1490bd30800000000000000
+      internalID: 4445215685864210322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 780
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73048dc44a06c850800000000000000
+      internalID: 6396811611348403071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 769
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa083f1421e014950800000000000000
+      internalID: 6431437214440456367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 780
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aab38280db9e580800000000000000
+      internalID: -8797292554359166450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 769
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ad5dd1c577f750800000000000000
+      internalID: 6338664476050302709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 767
+        width: 81
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbcb9446b074a880800000000000000
+      internalID: -8600625460233384964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 767
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41894f2189cebca0800000000000000
+      internalID: -5999136096929611445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 769
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92960b6ca44ade0a0800000000000000
+      internalID: -6850638817092671191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 725
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a187c271f8e226e70800000000000000
+      internalID: 9106892588600555546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 742
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c81c86097c2d70800000000000000
+      internalID: 9019717222743458163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 740
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620254a5dcb4e5b20800000000000000
+      internalID: 3125018536796561446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 742
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce934534c1b106490800000000000000
+      internalID: -7755168750129366548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 742
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cf50c7ee251bb90800000000000000
+      internalID: -7227904742716474331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 742
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4474ec5be5d82d6b0800000000000000
+      internalID: -5272996775780792508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b540e04940586c40800000000000000
+      internalID: 5505738820011705778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 716
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996668a69511b9a0800000000000000
+      internalID: -6219165873607382634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 709
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5458e1d5b89f270800000000000000
+      internalID: 8284806221585008120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 716
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1ca3df711466cd0800000000000000
+      internalID: -2565291366452379188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 709
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e3a8f970908c850800000000000000
+      internalID: 6397373199025847866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 716
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae93ddfc663f44270800000000000000
+      internalID: 8233973641639705066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 709
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b9d228108baa630800000000000000
+      internalID: 3939163140707425108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 716
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e80588ba98bf10800000000000000
+      internalID: 2285746928187140063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 709
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a47c0540697a8b30800000000000000
+      internalID: 4290375049406084261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 716
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2844dd7a38bd75c60800000000000000
+      internalID: 7806949837573538946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 709
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f2a66e1587b3f0800000000000000
+      internalID: -885092436137543555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 716
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c5d3c08822e60e0800000000000000
+      internalID: -2274842794059277189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 709
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8b295352a811320800000000000000
+      internalID: 2526952758348789946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 716
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fecfcfeea7ef740800000000000000
+      internalID: 5187718987642629914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 709
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5326bc51ce2e270800000000000000
+      internalID: 8278438643411072508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02598e90c4140ed40800000000000000
+      internalID: 5611556930543195424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f34c8445094e850800000000000000
+      internalID: 6405403261700161421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 383
+        width: 258
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd65fb0ec9a369d0800000000000000
+      internalID: -2782193442355843648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ac3e8a42d5a5730800000000000000
+      internalID: 3988602832023702120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a773592f7a351f510800000000000000
+      internalID: 1581136924978263930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f0397ab9feb7960800000000000000
+      internalID: 7600932247928246150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 370
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef2f724060893c30800000000000000
+      internalID: 4339640866869030883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918add2d7d5b3c180800000000000000
+      internalID: -9096226883797932007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8af7bbd54bdbab0800000000000000
+      internalID: -4990634497385977619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 358
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96865e673752cbc70800000000000000
+      internalID: 8988100134170880105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5392329c18d5fa0800000000000000
+      internalID: -5810345243359758905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f702cb76ab3a6deb0800000000000000
+      internalID: -4695385540487536513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 258
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9086464bf961d80800000000000000
+      internalID: -8280255267746608707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb7404a13372dc90800000000000000
+      internalID: -7146523001641206811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e229437bbf722a8c0800000000000000
+      internalID: -3989582357832887762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8770cb32e5b5d090800000000000000
+      internalID: -8010296378938853491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tormentend souls - all spritesheets_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8848f4d259975f800800000000000000
+      internalID: 645555803214808200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
