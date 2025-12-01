@@ -69309,7 +69309,7 @@ Canvas:
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
-  m_SortingLayerID: 942736407
+  m_SortingLayerID: 1079000365
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &260312156
@@ -85691,7 +85691,7 @@ MonoBehaviour:
   hitFlashColor: {r: 1, g: 0, b: 0, a: 1}
   healFlashColor: {r: 0, g: 1, b: 0, a: 1}
   deathFlashColor: {r: 0, g: 0, b: 0, a: 1}
-  flashDuration: 2
+  flashDuration: 1
   potionCount: 3
   audioSource: {fileID: 1397834587}
   damageSound: {fileID: 8300000, guid: 44de5fa4059d5e646a2b49f123200d73, type: 3}
