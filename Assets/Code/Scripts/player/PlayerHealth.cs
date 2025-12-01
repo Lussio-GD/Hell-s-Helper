@@ -57,7 +57,7 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    // INPUT SYSTEM METHOD
+    
     public void OnPotion(InputAction.CallbackContext context)
     {
         if (context.performed && potionCount > 0 && currentHealth < maxHealth && !isDead)

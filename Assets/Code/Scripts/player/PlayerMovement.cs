@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
     [Header("Footstep Settings")]
     public float footstepInterval = 0.4f;
 
-    // Input
+    
     private Vector2 moveInput;
     public Vector2 MoveInput { get; private set; }
     public float LastInputX { get; private set; }
@@ -65,7 +65,7 @@ public class PlayerMovement : MonoBehaviour
         HandleMovement();
     }
 
-    // INPUT SYSTEM METHODS
+    
     public void OnMove(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
@@ -96,28 +96,28 @@ public class PlayerMovement : MonoBehaviour
 
     System.Collections.IEnumerator PerformDash()
     {
-        // START DASH
+        
         IsDashing = true;
         canDash = false;
 
-        // Play dash sound
+        
         if (audioSource != null && dashSound != null)
         {
             audioSource.PlayOneShot(dashSound);
         }
 
-        // Calculate dash direction
+        
         Vector2 dashDirection = moveInput.magnitude > 0.1f ? moveInput.normalized : new Vector2(LastInputX, LastInputY).normalized;
         rb.linearVelocity = dashDirection * dashSpeed;
 
-        // DASH DURATION
+        
         yield return new WaitForSeconds(dashDuration);
 
-        // END DASH
+        
         IsDashing = false;
         rb.linearVelocity = Vector2.zero;
 
-        // COOLDOWN
+        
         yield return new WaitForSeconds(dashCooldown);
         canDash = true;
     }
@@ -188,7 +188,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    // Public method to set audio clips (useful for initialization)
+    
     public void SetAudioClips(AudioClip footstep, AudioClip dash)
     {
         footstepSound = footstep;

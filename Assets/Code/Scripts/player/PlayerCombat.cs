@@ -110,7 +110,7 @@ public class PlayerCombat : MonoBehaviour
 
         Debug.Log("Bow attack!");
 
-        // Play bow attack sound if available
+        
         if (audioSource != null && bowAttackSound != null)
         {
             audioSource.PlayOneShot(bowAttackSound);
@@ -185,14 +185,14 @@ public class PlayerCombat : MonoBehaviour
         animator.SetBool("IsShooting", isShooting);
     }
 
-    // Public method to set audio clips
+    
     public void SetAudioClips(AudioClip attack, AudioClip bowAttack = null)
     {
         attackSound = attack;
         bowAttackSound = bowAttack;
     }
 
-    // Public methods for other scripts
+    
     public bool IsAttacking() => isAttacking;
     public bool IsShooting() => isShooting;
     public bool CanAttack() => canAttack;

@@ -8,7 +8,7 @@ public class MenuManager : MonoBehaviour
 
     void Start()
     {
-        // Get reference to the audio manager
+        
         audioManager = MenuAudioManager.GetInstance();
 
         if (audioManager == null)
