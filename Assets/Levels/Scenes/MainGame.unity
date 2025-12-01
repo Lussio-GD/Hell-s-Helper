@@ -86256,7 +86256,6 @@ GameObject:
   - component: {fileID: 1880369668}
   - component: {fileID: 1880369667}
   - component: {fileID: 1880369666}
-  - component: {fileID: 1880369669}
   m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Untagged
@@ -86352,18 +86351,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1397834576}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1880369669
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1880369665}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 07b1784609364ff4ead9366528a3f715, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2065929250
 GameObject:
   m_ObjectHideFlags: 0

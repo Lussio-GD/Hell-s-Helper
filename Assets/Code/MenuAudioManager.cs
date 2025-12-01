@@ -102,6 +102,10 @@ public class MenuAudioManager : MonoBehaviour
             audioSource.PlayOneShot(buttonHoverSound);
             Debug.Log("Hover sound played!");
         }
+        else
+        {
+            Debug.Log("Audio not found.");
+        }
     }
 
     public void OnButtonClick()
