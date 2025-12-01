@@ -11,6 +11,11 @@ public class SkeletonEnemy : MonoBehaviour
     public int attackDamage = 10;
     public int maxHealth = 40;
 
+    [Header("Attack Hitbox Settings")]
+    public Vector2 hitboxSize = new Vector2(1.5f, 2f); // Ancho y alto del rectángulo
+    public float hitboxOffsetX = 0.5f; // Offset horizontal desde el centro del esqueleto
+    public Color hitboxGizmoColor = new Color(1f, 0f, 0f, 0.3f); // Color para visualización
+
     [Header("Components")]
     public Transform player;
     public SpriteRenderer spriteRenderer;
@@ -191,7 +196,7 @@ public class SkeletonEnemy : MonoBehaviour
     {
         yield return new WaitForSeconds(delay);
 
-        if (player != null && Vector2.Distance(transform.position, player.position) <= attackRange)
+        if (player != null && IsPlayerInHitbox())
         {
             PlayerHealth playerHealth = player.GetComponent<PlayerHealth>();
             if (playerHealth != null && !playerHealth.IsDead())
@@ -203,6 +208,29 @@ public class SkeletonEnemy : MonoBehaviour
 
         isAttacking = false;
         StartCoroutine(ResetAttackCooldown());
+    }
+
+    // MÉTODO NUEVO: Verifica si el jugador está dentro del rectángulo de ataque
+    bool IsPlayerInHitbox()
+    {
+        if (player == null) return false;
+
+        // Calcular la posición del hitbox
+        Vector2 hitboxPosition = transform.position;
+
+        // Ajustar según la dirección del sprite (si está mirando izquierda o derecha)
+        float direction = spriteRenderer.flipX ? -1f : 1f;
+        hitboxPosition.x += hitboxOffsetX * direction;
+
+        // Calcular los límites del rectángulo
+        Vector2 halfSize = hitboxSize * 0.5f;
+        Vector2 min = hitboxPosition - halfSize;
+        Vector2 max = hitboxPosition + halfSize;
+
+        // Verificar si el jugador está dentro del rectángulo
+        Vector2 playerPos = player.position;
+        return (playerPos.x >= min.x && playerPos.x <= max.x &&
+                playerPos.y >= min.y && playerPos.y <= max.y);
     }
 
     IEnumerator ResetAttackCooldown()
@@ -325,12 +353,47 @@ public class SkeletonEnemy : MonoBehaviour
         footstepSound = footstep;
     }
 
+    // Método para dibujar el hitbox en el Editor
     void OnDrawGizmosSelected()
     {
+        // Dibujar rango de detección (círculo amarillo)
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position, detectionRange);
 
+        // Dibujar rango de ataque antiguo (círculo rojo)
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
+
+        // Dibujar hitbox rectangular (solo si tenemos SpriteRenderer)
+        if (spriteRenderer != null)
+        {
+            // Calcular posición del hitbox
+            Vector2 hitboxPosition = transform.position;
+            float direction = spriteRenderer.flipX ? -1f : 1f;
+            hitboxPosition.x += hitboxOffsetX * direction;
+
+            // Dibujar rectángulo relleno
+            Gizmos.color = hitboxGizmoColor;
+            Gizmos.DrawCube(hitboxPosition, hitboxSize);
+
+            // Dibujar borde del rectángulo
+            Gizmos.color = Color.red;
+            Gizmos.DrawWireCube(hitboxPosition, hitboxSize);
+        }
+    }
+
+    // También dibujar siempre (no solo cuando está seleccionado)
+    void OnDrawGizmos()
+    {
+        // Dibujar hitbox rectangular siempre (pero más transparente)
+        if (spriteRenderer != null)
+        {
+            Vector2 hitboxPosition = transform.position;
+            float direction = spriteRenderer.flipX ? -1f : 1f;
+            hitboxPosition.x += hitboxOffsetX * direction;
+
+            Gizmos.color = new Color(hitboxGizmoColor.r, hitboxGizmoColor.g, hitboxGizmoColor.b, 0.1f);
+            Gizmos.DrawCube(hitboxPosition, hitboxSize);
+        }
     }
 }
