@@ -475,9 +475,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 634738428}
+      - m_Target: {fileID: 634738430}
         m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
-        m_MethodName: OnButtonHover
+        m_MethodName: QuitGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -534,26 +534,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 281299181}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+  m_Script: {fileID: 11500000, guid: 629873b84551b0744a9e1fd069f41da9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 0
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 634738428}
-          m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
-          m_MethodName: OnButtonHover
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
 --- !u!1 &396120616
 GameObject:
   m_ObjectHideFlags: 0
@@ -774,7 +757,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 634738428}
+      - m_Target: {fileID: 634738430}
         m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
         m_MethodName: ShowCredits
         m_Mode: 1
@@ -833,26 +816,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 418495662}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+  m_Script: {fileID: 11500000, guid: 629873b84551b0744a9e1fd069f41da9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 0
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 634738428}
-          m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
-          m_MethodName: OnButtonHover
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
 --- !u!1 &436189999
 GameObject:
   m_ObjectHideFlags: 0
@@ -1009,26 +975,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 634738429}
-  - component: {fileID: 634738428}
+  - component: {fileID: 634738430}
   m_Layer: 0
-  m_Name: SceneController
+  m_Name: MenuManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &634738428
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 634738427}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3946ad08ec6e61a47badb4a842c00b98, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &634738429
 Transform:
   m_ObjectHideFlags: 0
@@ -1044,6 +998,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &634738430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 634738427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3946ad08ec6e61a47badb4a842c00b98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &810306156
 GameObject:
   m_ObjectHideFlags: 0
@@ -1128,7 +1094,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 634738428}
+      - m_Target: {fileID: 634738430}
         m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1

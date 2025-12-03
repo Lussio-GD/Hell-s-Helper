@@ -95,7 +95,7 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -209,6 +209,7 @@ MonoBehaviour:
   damageSound: {fileID: 8300000, guid: be4bda212bfaab748a5d94ec3fc2c2bc, type: 3}
   deathSound: {fileID: 8300000, guid: be4bda212bfaab748a5d94ec3fc2c2bc, type: 3}
   footstepSound: {fileID: 8300000, guid: 7c6115fc941622f46ae6a5efe346e939, type: 3}
+  attackSound: {fileID: 8300000, guid: 3c51bec57dc53d54a8db177bc794a375, type: 3}
   footstepInterval: 0.6
 --- !u!82 &8500595054402289956
 AudioSource:

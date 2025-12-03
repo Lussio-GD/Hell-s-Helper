@@ -12,9 +12,9 @@ public class SkeletonEnemy : MonoBehaviour
     public int maxHealth = 40;
 
     [Header("Attack Hitbox Settings")]
-    public Vector2 hitboxSize = new Vector2(1.5f, 2f); 
-    public float hitboxOffsetX = 0.5f; 
-    public Color hitboxGizmoColor = new Color(1f, 0f, 0f, 0.3f); 
+    public Vector2 hitboxSize = new Vector2(1.5f, 2f);
+    public float hitboxOffsetX = 0.5f;
+    public Color hitboxGizmoColor = new Color(1f, 0f, 0f, 0.3f);
 
     [Header("Components")]
     public Transform player;
@@ -30,11 +30,11 @@ public class SkeletonEnemy : MonoBehaviour
     public AudioClip damageSound;
     public AudioClip deathSound;
     public AudioClip footstepSound;
+    public AudioClip attackSound;
 
     [Header("Footstep Settings")]
     public float footstepInterval = 0.6f;
 
-    // Private variables
     private Rigidbody2D rb;
     private int currentHealth;
     private bool canAttack = true;
@@ -50,40 +50,31 @@ public class SkeletonEnemy : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         currentHealth = maxHealth;
 
-        
         if (spriteRenderer != null)
         {
             originalColor = spriteRenderer.color;
         }
 
-        
         if (audioSource == null)
         {
             audioSource = gameObject.AddComponent<AudioSource>();
-            audioSource.spatialBlend = 0.8f; 
+            audioSource.spatialBlend = 0.8f;
             audioSource.volume = 0.7f;
         }
 
-        // Find player if not assigned
         if (player == null)
         {
             GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
             if (playerObj != null)
             {
                 player = playerObj.transform;
-                Debug.Log("Found player: " + player.name);
-            }
-            else
-            {
-                Debug.LogError("Player not found! Make sure player has 'Player' tag.");
             }
         }
 
-        // Get components if not assigned
         if (spriteRenderer == null) spriteRenderer = GetComponent<SpriteRenderer>();
         if (animator == null) animator = GetComponent<Animator>();
 
-        Debug.Log("Skeleton spawned! Health: " + currentHealth);
+        gameObject.tag = "Enemy";
     }
 
     void Update()
@@ -109,11 +100,9 @@ public class SkeletonEnemy : MonoBehaviour
 
         if (distanceToPlayer <= detectionRange)
         {
-            // Player detected - move towards player
             Vector2 direction = (player.position - transform.position).normalized;
             movement = direction;
 
-            // Flip sprite based on player position
             if (player.position.x < transform.position.x)
             {
                 spriteRenderer.flipX = true;
@@ -123,7 +112,6 @@ public class SkeletonEnemy : MonoBehaviour
                 spriteRenderer.flipX = false;
             }
 
-            // Check if in attack range
             if (distanceToPlayer <= attackRange && canAttack && !isAttacking)
             {
                 movement = Vector2.zero;
@@ -162,7 +150,6 @@ public class SkeletonEnemy : MonoBehaviour
         {
             if (wasWalking)
             {
-                // Just stopped walking
                 footstepTimer = 0f;
                 wasWalking = false;
             }
@@ -173,10 +160,8 @@ public class SkeletonEnemy : MonoBehaviour
     {
         if (audioSource != null && footstepSound != null)
         {
-            // Add some random pitch variation for more natural footsteps
             audioSource.pitch = Random.Range(0.8f, 1.2f);
             audioSource.PlayOneShot(footstepSound);
-            // Reset pitch to default after playing
             audioSource.pitch = 1f;
         }
     }
@@ -186,10 +171,18 @@ public class SkeletonEnemy : MonoBehaviour
         canAttack = false;
         isAttacking = true;
 
-        Debug.Log("Skeleton attacking!");
-
-        // Damage player immediately
+        PlayAttackSound();
         StartCoroutine(DamagePlayerAfterDelay(0.5f));
+    }
+
+    void PlayAttackSound()
+    {
+        if (audioSource != null && attackSound != null)
+        {
+            audioSource.pitch = Random.Range(0.9f, 1.1f);
+            audioSource.PlayOneShot(attackSound);
+            audioSource.pitch = 1f;
+        }
     }
 
     IEnumerator DamagePlayerAfterDelay(float delay)
@@ -202,7 +195,6 @@ public class SkeletonEnemy : MonoBehaviour
             if (playerHealth != null && !playerHealth.IsDead())
             {
                 playerHealth.TakeDamage(attackDamage);
-                Debug.Log("Skeleton attacked player for " + attackDamage + " damage!");
             }
         }
 
@@ -210,24 +202,18 @@ public class SkeletonEnemy : MonoBehaviour
         StartCoroutine(ResetAttackCooldown());
     }
 
-    
     bool IsPlayerInHitbox()
     {
         if (player == null) return false;
 
-        
         Vector2 hitboxPosition = transform.position;
-
-        
         float direction = spriteRenderer.flipX ? -1f : 1f;
         hitboxPosition.x += hitboxOffsetX * direction;
 
-        
         Vector2 halfSize = hitboxSize * 0.5f;
         Vector2 min = hitboxPosition - halfSize;
         Vector2 max = hitboxPosition + halfSize;
 
-        
         Vector2 playerPos = player.position;
         return (playerPos.x >= min.x && playerPos.x <= max.x &&
                 playerPos.y >= min.y && playerPos.y <= max.y);
@@ -258,31 +244,19 @@ public class SkeletonEnemy : MonoBehaviour
     {
         if (isDead) return;
 
-        Debug.Log($"Skeleton TakeDamage called with {damage} damage");
-
         currentHealth -= damage;
         currentHealth = Mathf.Max(currentHealth, 0);
 
-        Debug.Log($"Skeleton took {damage} damage! Health: {currentHealth}/{maxHealth}");
-
-        // Play damage sound
         if (audioSource != null && damageSound != null)
         {
             audioSource.PlayOneShot(damageSound);
         }
 
-        
         if (animator != null)
         {
             animator.SetTrigger("TakeDamage");
-            Debug.Log("TakeDamage trigger set on animator!");
-        }
-        else
-        {
-            Debug.LogError("Animator is null - cannot trigger hurt animation!");
         }
 
-        // Flash red when hit
         StartCoroutine(FlashColor(hitFlashColor));
 
         if (currentHealth <= 0)
@@ -303,89 +277,77 @@ public class SkeletonEnemy : MonoBehaviour
 
     void Die()
     {
+        if (isDead) return;
+
         isDead = true;
         isAttacking = false;
 
-        // Play death sound
         if (audioSource != null && deathSound != null)
         {
             audioSource.PlayOneShot(deathSound);
         }
 
-        // Stop movement
         rb.linearVelocity = Vector2.zero;
 
-        // Disable collider
         Collider2D collider = GetComponent<Collider2D>();
         if (collider != null) collider.enabled = false;
 
-        
         if (animator != null)
         {
             animator.SetBool("IsDead", true);
-            Debug.Log("IsDead set to true on animator!");
-        }
-        else
-        {
-            Debug.LogError("Animator is null - cannot trigger death animation!");
         }
 
-        Debug.Log("Skeleton defeated!");
+        NotifyGameManager();
 
-        // Wait for death animation to play, then destroy
         StartCoroutine(DeathSequence());
+    }
+
+    void NotifyGameManager()
+    {
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.EnemyKilled();
+        }
     }
 
     IEnumerator DeathSequence()
     {
-        // Wait for death animation to finish (adjust time based on your animation length)
         yield return new WaitForSeconds(2f);
-
-        Debug.Log("Destroying skeleton...");
         Destroy(gameObject);
     }
 
-    // Public method to set audio clips
-    public void SetAudioClips(AudioClip damage, AudioClip death, AudioClip footstep)
+    public void SetAudioClips(AudioClip damage, AudioClip death, AudioClip footstep, AudioClip attack)
     {
         damageSound = damage;
         deathSound = death;
         footstepSound = footstep;
+        attackSound = attack;
     }
 
-    
     void OnDrawGizmosSelected()
     {
-        
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position, detectionRange);
 
-        
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
 
-        
         if (spriteRenderer != null)
         {
-            
             Vector2 hitboxPosition = transform.position;
             float direction = spriteRenderer.flipX ? -1f : 1f;
             hitboxPosition.x += hitboxOffsetX * direction;
 
-            
             Gizmos.color = hitboxGizmoColor;
             Gizmos.DrawCube(hitboxPosition, hitboxSize);
 
-            
             Gizmos.color = Color.red;
             Gizmos.DrawWireCube(hitboxPosition, hitboxSize);
         }
     }
-
     
     void OnDrawGizmos()
     {
-        
         if (spriteRenderer != null)
         {
             Vector2 hitboxPosition = transform.position;

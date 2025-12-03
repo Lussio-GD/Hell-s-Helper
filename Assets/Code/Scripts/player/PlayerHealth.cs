@@ -38,13 +38,11 @@ public class PlayerHealth : MonoBehaviour
         playerCombat = GetComponent<PlayerCombat>();
         rb = GetComponent<Rigidbody2D>();
 
-        // Store original color
         if (spriteRenderer != null)
         {
             originalColor = spriteRenderer.color;
         }
 
-        // Audio Source setup
         if (audioSource == null)
         {
             audioSource = GetComponent<AudioSource>();
@@ -57,7 +55,18 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("EnemyAttack") || collision.CompareTag("Enemy"))
+        {
+            SkeletonEnemy enemy = collision.GetComponent<SkeletonEnemy>();
+            if (enemy != null && !isInvincible && !isDead)
+            {
+                TakeDamage(enemy.attackDamage);
+            }
+        }
+    }
+
     public void OnPotion(InputAction.CallbackContext context)
     {
         if (context.performed && potionCount > 0 && currentHealth < maxHealth && !isDead)
@@ -68,22 +77,20 @@ public class PlayerHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        if (isDead || isInvincible || playerMovement.IsDashing) return;
+        if (isDead || isInvincible) return;
 
         currentHealth -= damage;
         currentHealth = Mathf.Max(currentHealth, 0);
 
-        // Play damage sound
+        Debug.Log($"Player took {damage} damage! Health: {currentHealth}/{maxHealth}");
+
         if (audioSource != null && damageSound != null)
         {
             audioSource.PlayOneShot(damageSound);
         }
 
-        // Flash red when hit
         StartCoroutine(FlashColor(hitFlashColor));
-        StartCoroutine(InvincibilityFrames());
-
-        Debug.Log($"Player took {damage} damage! Health: {currentHealth}/{maxHealth}");
+        StartCoroutine(ActivateInvincibility());
 
         if (currentHealth <= 0)
         {
@@ -91,42 +98,37 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    IEnumerator ActivateInvincibility()
+    {
+        isInvincible = true;
+
+        float elapsedTime = 0f;
+        while (elapsedTime < invincibilityTime)
+        {
+            if (spriteRenderer != null)
+            {
+                spriteRenderer.color = Color.Lerp(hitFlashColor, originalColor, elapsedTime / invincibilityTime);
+            }
+            elapsedTime += Time.deltaTime;
+            yield return null;
+        }
+
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.color = originalColor;
+        }
+
+        isInvincible = false;
+    }
+
     IEnumerator FlashColor(Color flashColor)
     {
         if (spriteRenderer != null)
         {
-            // Flash to the specified color
             spriteRenderer.color = flashColor;
             yield return new WaitForSeconds(flashDuration);
-
-            // Return to original color
             spriteRenderer.color = originalColor;
         }
-    }
-
-    IEnumerator InvincibilityFrames()
-    {
-        isInvincible = true;
-
-        // Blinking effect during invincibility
-        float timer = 0f;
-        while (timer < invincibilityTime)
-        {
-            if (spriteRenderer != null)
-            {
-                spriteRenderer.enabled = !spriteRenderer.enabled;
-            }
-            yield return new WaitForSeconds(0.1f);
-            timer += 0.1f;
-        }
-
-        // Ensure sprite is visible and original color after invincibility
-        if (spriteRenderer != null)
-        {
-            spriteRenderer.enabled = true;
-            spriteRenderer.color = originalColor;
-        }
-        isInvincible = false;
     }
 
     void UsePotion()
@@ -134,13 +136,11 @@ public class PlayerHealth : MonoBehaviour
         potionCount--;
         currentHealth = Mathf.Min(currentHealth + 30, maxHealth);
 
-        // Play heal sound
         if (audioSource != null && healSound != null)
         {
             audioSource.PlayOneShot(healSound);
         }
 
-        // Flash green when healing
         StartCoroutine(FlashColor(healFlashColor));
 
         Debug.Log($"Used potion! Health: {currentHealth}/{maxHealth}. Potions left: {potionCount}");
@@ -148,88 +148,45 @@ public class PlayerHealth : MonoBehaviour
 
     void Die()
     {
-        isDead = true;
+        if (isDead) return;
 
-        // Play death sound
+        isDead = true;
+        Debug.Log("Player died!");
+
         if (audioSource != null && deathSound != null)
         {
             audioSource.PlayOneShot(deathSound);
         }
 
-        // Flash black and hide on death
-        StartCoroutine(DeathSequence());
+        StartCoroutine(FlashColor(deathFlashColor));
 
-        Debug.Log("Player died!");
-    }
-
-    IEnumerator DeathSequence()
-    {
-        // Flash black
-        if (spriteRenderer != null)
-        {
-            spriteRenderer.color = deathFlashColor;
-        }
-
-        // Stop movement
-        rb.linearVelocity = Vector2.zero;
-
-        // Wait a moment
-        yield return new WaitForSeconds(0.5f);
-
-        // Hide sprite
-        if (spriteRenderer != null)
-        {
-            spriteRenderer.enabled = false;
-        }
-
-        // Disable other components
         if (playerMovement != null)
         {
             playerMovement.enabled = false;
         }
+
         if (playerCombat != null)
         {
             playerCombat.enabled = false;
         }
 
-        // Wait for respawn
-        yield return new WaitForSeconds(2.5f);
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
 
-        Respawn();
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.PlayerDied();
+        }
+        else
+        {
+            Debug.LogError("GameManager.Instance is null!");
+        }
     }
 
-    public void Respawn()
-    {
-        isDead = false;
-        currentHealth = maxHealth;
-
-        // Show sprite and reset color
-        if (spriteRenderer != null)
-        {
-            spriteRenderer.enabled = true;
-            spriteRenderer.color = originalColor;
-        }
-
-        // Re-enable components
-        if (playerMovement != null)
-        {
-            playerMovement.enabled = true;
-        }
-        if (playerCombat != null)
-        {
-            playerCombat.enabled = true;
-        }
-
-        Debug.Log("Player respawned!");
-    }
-
-    // Public method to set audio clips
     public void SetAudioClips(AudioClip damage, AudioClip heal = null, AudioClip death = null)
     {
-
-
-
-
         damageSound = damage;
         healSound = heal;
         deathSound = death;

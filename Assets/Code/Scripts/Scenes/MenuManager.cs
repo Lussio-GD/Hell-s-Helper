@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class MenuManager : MonoBehaviour
@@ -8,57 +7,38 @@ public class MenuManager : MonoBehaviour
 
     void Start()
     {
-        
         audioManager = MenuAudioManager.GetInstance();
-
-        if (audioManager == null)
-        {
-            Debug.LogError("MenuAudioManager not found! Make sure there's an AudioManager in the scene.");
-        }
-        else
-        {
-            Debug.Log("AudioManager found and ready!");
-        }
     }
 
     public void PlayGame()
     {
-        Debug.Log("PlayGame called!");
         PlayButtonClickSound();
-        StartCoroutine(LoadAfterSound("MainGame", true));
+        StartCoroutine(LoadGameAfterSound());
     }
 
     public void ShowCredits()
     {
-        Debug.Log("ShowCredits called!");
         PlayButtonClickSound();
-        StartCoroutine(LoadAfterSound("CreditsScene", false));
+        StartCoroutine(LoadCreditsAfterSound());
     }
 
     public void BackToMainMenu()
     {
-        Debug.Log("BackToMainMenu called!");
         PlayButtonClickSound();
-        StartCoroutine(LoadAfterSound("MainMenu", false));
+        StartCoroutine(LoadMainMenuAfterSound());
     }
 
     public void QuitGame()
     {
-        Debug.Log("QuitGame called!");
         PlayButtonClickSound();
         StartCoroutine(QuitAfterSound());
     }
 
     public void OnButtonHover()
     {
-        Debug.Log("Button hover detected!");
         if (audioManager != null)
         {
             audioManager.OnButtonHover();
-        }
-        else
-        {
-            Debug.LogWarning("AudioManager is null on hover!");
         }
     }
 
@@ -68,36 +48,50 @@ public class MenuManager : MonoBehaviour
         {
             audioManager.OnButtonClick();
         }
-        else
-        {
-            Debug.LogWarning("AudioManager is null on click!");
-        }
     }
 
-    private IEnumerator LoadAfterSound(string sceneName, bool stopMusic)
+    private IEnumerator LoadGameAfterSound()
     {
-        // Wait for click sound to play completely
         yield return new WaitForSeconds(0.3f);
 
-        // Stop music if going to game scene
-        if (stopMusic && audioManager != null)
+        if (audioManager != null)
         {
             audioManager.StopMenuMusic();
         }
 
-        Debug.Log($"Loading scene: {sceneName}");
-        SceneManager.LoadScene(sceneName);
+        if (SceneController.Instance != null)
+        {
+            SceneController.Instance.LoadMainGame();
+        }
+    }
+
+    private IEnumerator LoadCreditsAfterSound()
+    {
+        yield return new WaitForSeconds(0.3f);
+
+        if (SceneController.Instance != null)
+        {
+            SceneController.Instance.LoadCreditsScene();
+        }
+    }
+
+    private IEnumerator LoadMainMenuAfterSound()
+    {
+        yield return new WaitForSeconds(0.3f);
+
+        if (SceneController.Instance != null)
+        {
+            SceneController.Instance.LoadMainMenu();
+        }
     }
 
     private IEnumerator QuitAfterSound()
     {
         yield return new WaitForSeconds(0.3f);
 
-        Debug.Log("Quitting application...");
-        Application.Quit();
-
-#if UNITY_EDITOR
-        UnityEditor.EditorApplication.isPlaying = false;
-#endif
+        if (SceneController.Instance != null)
+        {
+            SceneController.Instance.QuitGame();
+        }
     }
 }
