@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spitfire device-stand v2_0: 6076057735697943469
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

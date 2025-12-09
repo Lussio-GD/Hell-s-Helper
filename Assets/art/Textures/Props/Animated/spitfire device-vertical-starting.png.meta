@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spitfire device-vertical-starting_0: 1398367333271646556
+      spitfire device-vertical-starting_1: -4750052691275787516
+      spitfire device-vertical-starting_10: -4361605065789998170
+      spitfire device-vertical-starting_11: 6251192330782444562
+      spitfire device-vertical-starting_12: -2188743219604401502
+      spitfire device-vertical-starting_13: -4303342793932020544
+      spitfire device-vertical-starting_14: 4392193733695346255
+      spitfire device-vertical-starting_15: 109839685802107920
+      spitfire device-vertical-starting_2: -3359288299444300614
+      spitfire device-vertical-starting_3: 3894244929708205684
+      spitfire device-vertical-starting_4: 8983930272038324615
+      spitfire device-vertical-starting_5: -5038094960364674766
+      spitfire device-vertical-starting_6: 6501690139577576699
+      spitfire device-vertical-starting_7: 5736673684912723842
+      spitfire device-vertical-starting_8: 1501223825604745704
+      spitfire device-vertical-starting_9: -5684054263717398902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

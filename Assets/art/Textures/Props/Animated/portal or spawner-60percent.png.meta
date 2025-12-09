@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portal or spawner-60percent_0: 3912106930724727371
+      portal or spawner-60percent_1: -526527324426921949
+      portal or spawner-60percent_10: -6837528808443275262
+      portal or spawner-60percent_11: -3466062849776193210
+      portal or spawner-60percent_12: -2076865166651803523
+      portal or spawner-60percent_13: -2862258141860686282
+      portal or spawner-60percent_14: -3028514451414404104
+      portal or spawner-60percent_15: -6102552792353124673
+      portal or spawner-60percent_2: -5938719127739425616
+      portal or spawner-60percent_3: 4646991779118174499
+      portal or spawner-60percent_4: -1772437951510889668
+      portal or spawner-60percent_5: 5489549045490545265
+      portal or spawner-60percent_6: -4524595608896749467
+      portal or spawner-60percent_7: 3399011927427179899
+      portal or spawner-60percent_8: -7283793556092271525
+      portal or spawner-60percent_9: 5161536554371851043
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

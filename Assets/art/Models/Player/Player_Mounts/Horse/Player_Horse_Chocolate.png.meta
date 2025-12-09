@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Horse_Chocolate_0: 1321006637763544
+      Player_Horse_Chocolate_1: -5911366744789390343
+      Player_Horse_Chocolate_10: 483675180695745453
+      Player_Horse_Chocolate_11: 6482481925842525839
+      Player_Horse_Chocolate_12: 4328637318114896290
+      Player_Horse_Chocolate_13: 26833212977805270
+      Player_Horse_Chocolate_14: -3745521237284387347
+      Player_Horse_Chocolate_15: -2538525968762552769
+      Player_Horse_Chocolate_16: 7901444506462268544
+      Player_Horse_Chocolate_17: 4460253251310853851
+      Player_Horse_Chocolate_18: 4115456192961380361
+      Player_Horse_Chocolate_19: 6943170190598485654
+      Player_Horse_Chocolate_2: 7302078213811299580
+      Player_Horse_Chocolate_20: -2814348929911024814
+      Player_Horse_Chocolate_21: -8552914370021208079
+      Player_Horse_Chocolate_22: 6634958180958319022
+      Player_Horse_Chocolate_23: -57050556137178960
+      Player_Horse_Chocolate_3: 6205656115636169535
+      Player_Horse_Chocolate_4: -1354802527166201037
+      Player_Horse_Chocolate_5: 3113669847065053928
+      Player_Horse_Chocolate_6: 8686613111265765352
+      Player_Horse_Chocolate_7: -1533984240720845950
+      Player_Horse_Chocolate_8: -3972165126466697825
+      Player_Horse_Chocolate_9: -4537793496743933833
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

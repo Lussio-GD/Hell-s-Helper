@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-walk_8frames_0: -685967273889277717
+      elemental-walk_8frames_1: 6051230362368451402
+      elemental-walk_8frames_2: -2461530872329044520
+      elemental-walk_8frames_3: 125967549053152577
+      elemental-walk_8frames_4: -7500871159672973506
+      elemental-walk_8frames_5: -7424202686686319619
+      elemental-walk_8frames_6: -5754526013077443252
+      elemental-walk_8frames_7: -8343576050216795563
+      elemental-walk_8frames_8: 8899396950108005354
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

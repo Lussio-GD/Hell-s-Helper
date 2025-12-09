@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crusher-smash-v2_0: 5670606489697751017
+      crusher-smash-v2_1: -1138899418880198640
+      crusher-smash-v2_2: -792140780530179375
+      crusher-smash-v2_3: 3304160505138826708
+      crusher-smash-v2_4: 8016422900634371744
+      crusher-smash-v2_5: 801139420153186047
+      crusher-smash-v2_6: -8058067399693897544
+      crusher-smash-v2_7: 8813115749101098791
+      crusher-smash-v2_8: 6164262382223948027
+      crusher-smash-v2_9: -2736498775119334162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

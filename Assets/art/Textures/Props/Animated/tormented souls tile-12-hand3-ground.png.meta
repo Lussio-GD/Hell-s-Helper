@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tormented souls tile-12-hand3-ground_0: -279301371477904891
+      tormented souls tile-12-hand3-ground_1: 6941665821022414799
+      tormented souls tile-12-hand3-ground_2: -6446346065103441798
+      tormented souls tile-12-hand3-ground_3: 837223715076600542
+      tormented souls tile-12-hand3-ground_4: 5127100418312352439
+      tormented souls tile-12-hand3-ground_5: -251331042757798112
+      tormented souls tile-12-hand3-ground_6: 1404161992820787770
+      tormented souls tile-12-hand3-ground_7: 8407896041898099247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

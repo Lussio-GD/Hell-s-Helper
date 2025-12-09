@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mage Skeleton - animations-atk 1-initial stage_0: 8122427048460646264
+      Mage Skeleton - animations-atk 1-initial stage_1: 8126773585303283698
+      Mage Skeleton - animations-atk 1-initial stage_2: 2894190698417010285
+      Mage Skeleton - animations-atk 1-initial stage_3: -1657192469075412295
+      Mage Skeleton - animations-atk 1-initial stage_4: 1663664045571184039
+      Mage Skeleton - animations-atk 1-initial stage_5: -6654387787476087389
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

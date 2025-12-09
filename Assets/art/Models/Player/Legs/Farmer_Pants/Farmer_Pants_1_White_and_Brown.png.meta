@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Farmer_Pants_1_White_and_Brown_0: -3775929478815459627
+      Farmer_Pants_1_White_and_Brown_1: -2957744512820225086
+      Farmer_Pants_1_White_and_Brown_10: -7049119560919525082
+      Farmer_Pants_1_White_and_Brown_11: -9065657642502655365
+      Farmer_Pants_1_White_and_Brown_12: 2952397890028345692
+      Farmer_Pants_1_White_and_Brown_2: -2193561436074631895
+      Farmer_Pants_1_White_and_Brown_3: 3107769029585221276
+      Farmer_Pants_1_White_and_Brown_4: 1354403657167683907
+      Farmer_Pants_1_White_and_Brown_5: 2536501380143460996
+      Farmer_Pants_1_White_and_Brown_6: -7626562552994701089
+      Farmer_Pants_1_White_and_Brown_7: 1656692921464113265
+      Farmer_Pants_1_White_and_Brown_8: -227619018642132123
+      Farmer_Pants_1_White_and_Brown_9: 9212960876535182032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

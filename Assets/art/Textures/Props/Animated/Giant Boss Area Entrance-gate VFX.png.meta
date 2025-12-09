@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Giant Boss Area Entrance-gate VFX_0: 639324764731567696
+      Giant Boss Area Entrance-gate VFX_1: -229218472204389662
+      Giant Boss Area Entrance-gate VFX_10: -3990045124056616046
+      Giant Boss Area Entrance-gate VFX_11: -1336821686128656751
+      Giant Boss Area Entrance-gate VFX_12: 5947599741140954807
+      Giant Boss Area Entrance-gate VFX_13: -4008951735687926356
+      Giant Boss Area Entrance-gate VFX_14: 8080348440620243017
+      Giant Boss Area Entrance-gate VFX_15: 5974037481677379521
+      Giant Boss Area Entrance-gate VFX_2: 7857546611937923911
+      Giant Boss Area Entrance-gate VFX_3: 5666442805584280565
+      Giant Boss Area Entrance-gate VFX_4: 8580066957482603974
+      Giant Boss Area Entrance-gate VFX_5: -3522198154050239234
+      Giant Boss Area Entrance-gate VFX_6: 1427215016322521694
+      Giant Boss Area Entrance-gate VFX_7: -4957200372602296059
+      Giant Boss Area Entrance-gate VFX_8: 2708457172625807987
+      Giant Boss Area Entrance-gate VFX_9: 7693745385934775187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

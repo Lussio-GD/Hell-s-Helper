@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spitfire device-diagonal-firing-loop-flame_0: 4045850264227181764
+      spitfire device-diagonal-firing-loop-flame_1: 1637111992391332779
+      spitfire device-diagonal-firing-loop-flame_10: 2375542487902419645
+      spitfire device-diagonal-firing-loop-flame_11: 482635710357225266
+      spitfire device-diagonal-firing-loop-flame_12: -1853194982707788193
+      spitfire device-diagonal-firing-loop-flame_13: -8752938675732388236
+      spitfire device-diagonal-firing-loop-flame_14: 1126663164115485474
+      spitfire device-diagonal-firing-loop-flame_2: -2617208050340310818
+      spitfire device-diagonal-firing-loop-flame_3: 5465397821889837386
+      spitfire device-diagonal-firing-loop-flame_4: -6694502389209734216
+      spitfire device-diagonal-firing-loop-flame_5: 7791654227374851920
+      spitfire device-diagonal-firing-loop-flame_6: 6721101939273547665
+      spitfire device-diagonal-firing-loop-flame_7: 9035511468629543164
+      spitfire device-diagonal-firing-loop-flame_8: 3438796014080491976
+      spitfire device-diagonal-firing-loop-flame_9: -7546906226431364893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

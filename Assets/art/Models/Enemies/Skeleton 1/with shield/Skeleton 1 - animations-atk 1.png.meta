@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton 1 - animations-atk 1_0: -1796945092608629670
+      Skeleton 1 - animations-atk 1_1: -5538012751596186145
+      Skeleton 1 - animations-atk 1_10: -4881401464135395486
+      Skeleton 1 - animations-atk 1_11: 5718202314350876300
+      Skeleton 1 - animations-atk 1_12: 6398515771874137876
+      Skeleton 1 - animations-atk 1_13: 8350843226970743711
+      Skeleton 1 - animations-atk 1_14: -671591151194860176
+      Skeleton 1 - animations-atk 1_15: -5156023991454346354
+      Skeleton 1 - animations-atk 1_16: -5042627412029340028
+      Skeleton 1 - animations-atk 1_17: 2909791073131167194
+      Skeleton 1 - animations-atk 1_18: 2782775523600769176
+      Skeleton 1 - animations-atk 1_19: 4531175215555381177
+      Skeleton 1 - animations-atk 1_2: -4731142235411245005
+      Skeleton 1 - animations-atk 1_20: -48180936248757914
+      Skeleton 1 - animations-atk 1_21: -7482626908356819460
+      Skeleton 1 - animations-atk 1_3: 7559515598021263271
+      Skeleton 1 - animations-atk 1_4: -620589984350579673
+      Skeleton 1 - animations-atk 1_5: -197355655848589880
+      Skeleton 1 - animations-atk 1_6: 5205743991809693062
+      Skeleton 1 - animations-atk 1_7: 6144586452725810119
+      Skeleton 1 - animations-atk 1_8: -6435839294062618455
+      Skeleton 1 - animations-atk 1_9: 3279176092541094056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

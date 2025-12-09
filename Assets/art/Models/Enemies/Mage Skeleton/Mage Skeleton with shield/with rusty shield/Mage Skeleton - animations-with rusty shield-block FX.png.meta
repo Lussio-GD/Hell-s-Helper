@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mage Skeleton - animations-with rusty shield-block FX_0: 6399094749281812345
+      Mage Skeleton - animations-with rusty shield-block FX_1: -5249756018636769507
+      Mage Skeleton - animations-with rusty shield-block FX_2: 3505557073998939023
+      Mage Skeleton - animations-with rusty shield-block FX_3: 600385545353790759
+      Mage Skeleton - animations-with rusty shield-block FX_4: -2152431090604467259
+      Mage Skeleton - animations-with rusty shield-block FX_5: -3030814414481386481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

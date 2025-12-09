@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mockup floating land-IMP char_0: 2451783500783352742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

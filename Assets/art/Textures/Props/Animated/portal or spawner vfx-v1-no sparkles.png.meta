@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portal or spawner vfx-v1-no sparkles_0: 829890879191391083
+      portal or spawner vfx-v1-no sparkles_1: 5309977245625262861
+      portal or spawner vfx-v1-no sparkles_10: 8197139251042696360
+      portal or spawner vfx-v1-no sparkles_11: -6497342462678658371
+      portal or spawner vfx-v1-no sparkles_12: -6377922470758114242
+      portal or spawner vfx-v1-no sparkles_13: -7498813891174461252
+      portal or spawner vfx-v1-no sparkles_14: 8222636005200207204
+      portal or spawner vfx-v1-no sparkles_15: 6649328743598479879
+      portal or spawner vfx-v1-no sparkles_2: 9218108120480166940
+      portal or spawner vfx-v1-no sparkles_3: 7899490954484933896
+      portal or spawner vfx-v1-no sparkles_4: 3813831864462763626
+      portal or spawner vfx-v1-no sparkles_5: -4857729441036993358
+      portal or spawner vfx-v1-no sparkles_6: 3955813814589048631
+      portal or spawner vfx-v1-no sparkles_7: -2759637341049184393
+      portal or spawner vfx-v1-no sparkles_8: -449752265316160564
+      portal or spawner vfx-v1-no sparkles_9: -7460045621811900690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

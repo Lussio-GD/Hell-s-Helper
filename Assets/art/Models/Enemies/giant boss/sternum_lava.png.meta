@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sternum_lava_0: -3364190309909026273
+      sternum_lava_1: 8074134093786068687
+      sternum_lava_2: -2774043758565858657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

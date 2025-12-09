@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crusher-retreat_0: 1681911139063025242
+      crusher-retreat_1: -9172734458099940223
+      crusher-retreat_10: 5545610574071448448
+      crusher-retreat_11: 5664412885088819403
+      crusher-retreat_12: -3955640135271867844
+      crusher-retreat_13: -5766655713370154522
+      crusher-retreat_2: -836293158345262060
+      crusher-retreat_3: 2143714684688876617
+      crusher-retreat_4: -1287720058301843826
+      crusher-retreat_5: 9206892917516806666
+      crusher-retreat_6: 2123896163068231780
+      crusher-retreat_7: 790210772172451587
+      crusher-retreat_8: 3085295763615796290
+      crusher-retreat_9: 7897526706513815723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

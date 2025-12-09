@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mage Skeleton - animations-hurt2-losing shield_0: -1674356344781893015
+      Mage Skeleton - animations-hurt2-losing shield_1: -7206536642590689946
+      Mage Skeleton - animations-hurt2-losing shield_2: -3960013997549083563
+      Mage Skeleton - animations-hurt2-losing shield_3: 4175225636863215546
+      Mage Skeleton - animations-hurt2-losing shield_4: -2041638538181172490
+      Mage Skeleton - animations-hurt2-losing shield_5: 7852521847089298741
+      Mage Skeleton - animations-hurt2-losing shield_6: 3053747409551117502
+      Mage Skeleton - animations-hurt2-losing shield_7: -962036793734968325
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

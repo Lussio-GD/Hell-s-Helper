@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rocky-dude_atk2_26frames_0: 2265322313350973034
+      rocky-dude_atk2_26frames_1: -2107839416520987411
+      rocky-dude_atk2_26frames_10: -2284533383552244700
+      rocky-dude_atk2_26frames_11: -5614629041176665162
+      rocky-dude_atk2_26frames_12: 5695602824199375658
+      rocky-dude_atk2_26frames_13: -625362943574530324
+      rocky-dude_atk2_26frames_14: -1760612756611160332
+      rocky-dude_atk2_26frames_15: -5511839054031151736
+      rocky-dude_atk2_26frames_16: -8701979301018642121
+      rocky-dude_atk2_26frames_17: 3671963283199249661
+      rocky-dude_atk2_26frames_18: 4763232974269956192
+      rocky-dude_atk2_26frames_19: 8643343177592342423
+      rocky-dude_atk2_26frames_2: -7891537388269417115
+      rocky-dude_atk2_26frames_20: 7672926671976996637
+      rocky-dude_atk2_26frames_21: 5808581459230194944
+      rocky-dude_atk2_26frames_22: 7632113101886234619
+      rocky-dude_atk2_26frames_23: 7685150124505673020
+      rocky-dude_atk2_26frames_24: 1718353527917368655
+      rocky-dude_atk2_26frames_25: -2624459479070376419
+      rocky-dude_atk2_26frames_3: -2367975338824374307
+      rocky-dude_atk2_26frames_4: -4579997899640081226
+      rocky-dude_atk2_26frames_5: 1574732362362957534
+      rocky-dude_atk2_26frames_6: 3320823254379497777
+      rocky-dude_atk2_26frames_7: 6547196883272188919
+      rocky-dude_atk2_26frames_8: 4132142742399773846
+      rocky-dude_atk2_26frames_9: 1169081076604875928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

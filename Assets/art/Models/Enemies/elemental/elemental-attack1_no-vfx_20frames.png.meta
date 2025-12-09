@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-attack1_no-vfx_20frames_0: -2005964438823617993
+      elemental-attack1_no-vfx_20frames_1: 1765424768085345056
+      elemental-attack1_no-vfx_20frames_10: -4035523604496612768
+      elemental-attack1_no-vfx_20frames_11: 7175824701241043669
+      elemental-attack1_no-vfx_20frames_12: -4775316033427014092
+      elemental-attack1_no-vfx_20frames_13: 1067397525196017833
+      elemental-attack1_no-vfx_20frames_14: -1543352540890012156
+      elemental-attack1_no-vfx_20frames_15: 1562717681257087880
+      elemental-attack1_no-vfx_20frames_16: 6002064793084760243
+      elemental-attack1_no-vfx_20frames_17: 7568249718476430556
+      elemental-attack1_no-vfx_20frames_18: 5852275998440290301
+      elemental-attack1_no-vfx_20frames_19: -5500282478820713285
+      elemental-attack1_no-vfx_20frames_2: -4118043213832300265
+      elemental-attack1_no-vfx_20frames_3: -2209453468627443603
+      elemental-attack1_no-vfx_20frames_4: 3337781731930965055
+      elemental-attack1_no-vfx_20frames_5: 2863373766760703488
+      elemental-attack1_no-vfx_20frames_6: 121612375735244033
+      elemental-attack1_no-vfx_20frames_7: -7235055918537476368
+      elemental-attack1_no-vfx_20frames_8: 6617946298382476465
+      elemental-attack1_no-vfx_20frames_9: 6820073102686939987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

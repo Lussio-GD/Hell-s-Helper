@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mage Skeleton - animations-block_0: -8168742487438889886
+      Mage Skeleton - animations-block_1: 3657037421921393797
+      Mage Skeleton - animations-block_2: 4391829721220742983
+      Mage Skeleton - animations-block_3: 504136402171968650
+      Mage Skeleton - animations-block_4: 1214509392535568529
+      Mage Skeleton - animations-block_5: -1371787107736256521
+      Mage Skeleton - animations-block_6: 5728813734215850648
+      Mage Skeleton - animations-block_7: 2965808696669938301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

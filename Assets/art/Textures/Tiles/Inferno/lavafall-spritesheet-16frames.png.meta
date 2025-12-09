@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lavafall-spritesheet-16frames_0: 886174368835937471
+      lavafall-spritesheet-16frames_1: -6695742247982165275
+      lavafall-spritesheet-16frames_10: -6132449074251000264
+      lavafall-spritesheet-16frames_11: 1428885215280867110
+      lavafall-spritesheet-16frames_12: 4744264734270488220
+      lavafall-spritesheet-16frames_13: -7125433956926419616
+      lavafall-spritesheet-16frames_14: 7709321775354614557
+      lavafall-spritesheet-16frames_15: -6992305821810507822
+      lavafall-spritesheet-16frames_16: 3130917438202126880
+      lavafall-spritesheet-16frames_2: 3400819800153180645
+      lavafall-spritesheet-16frames_3: -8422766171982780484
+      lavafall-spritesheet-16frames_4: -2241357268984319146
+      lavafall-spritesheet-16frames_5: -8084812777186881870
+      lavafall-spritesheet-16frames_6: 507659908193889383
+      lavafall-spritesheet-16frames_7: 7862068578663685166
+      lavafall-spritesheet-16frames_8: 7415794185175216575
+      lavafall-spritesheet-16frames_9: 3879007038566159532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

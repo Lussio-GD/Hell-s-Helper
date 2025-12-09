@@ -1872,7 +1872,77 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-attack2_explosion_vfx_10frames_0: 735635425477347528
+      elemental-attack2_explosion_vfx_10frames_1: -8295533038874824103
+      elemental-attack2_explosion_vfx_10frames_10: -3579751585896893455
+      elemental-attack2_explosion_vfx_10frames_11: 4659549221918102705
+      elemental-attack2_explosion_vfx_10frames_12: -8965875280200044629
+      elemental-attack2_explosion_vfx_10frames_13: 3058781011908086852
+      elemental-attack2_explosion_vfx_10frames_14: -8385014731980983858
+      elemental-attack2_explosion_vfx_10frames_15: -4535673958422407096
+      elemental-attack2_explosion_vfx_10frames_16: 1575137779027705353
+      elemental-attack2_explosion_vfx_10frames_17: 6930318671970103007
+      elemental-attack2_explosion_vfx_10frames_18: 5850955756077390790
+      elemental-attack2_explosion_vfx_10frames_19: 6815013837794234495
+      elemental-attack2_explosion_vfx_10frames_2: -1666073462155877834
+      elemental-attack2_explosion_vfx_10frames_20: 6261548808779042139
+      elemental-attack2_explosion_vfx_10frames_21: -7342695425299290385
+      elemental-attack2_explosion_vfx_10frames_22: -7315502014814921700
+      elemental-attack2_explosion_vfx_10frames_23: -4617095659068363516
+      elemental-attack2_explosion_vfx_10frames_24: -2731143040120059154
+      elemental-attack2_explosion_vfx_10frames_25: -2188060045973346429
+      elemental-attack2_explosion_vfx_10frames_26: -3589081955565665369
+      elemental-attack2_explosion_vfx_10frames_27: -6524111877402625262
+      elemental-attack2_explosion_vfx_10frames_28: -8642614817991576445
+      elemental-attack2_explosion_vfx_10frames_29: 7312706996138346818
+      elemental-attack2_explosion_vfx_10frames_3: -8905412420183661781
+      elemental-attack2_explosion_vfx_10frames_30: -2539510454397249021
+      elemental-attack2_explosion_vfx_10frames_31: -5421568279058733599
+      elemental-attack2_explosion_vfx_10frames_32: -3421313423363454975
+      elemental-attack2_explosion_vfx_10frames_33: -6458822976986755614
+      elemental-attack2_explosion_vfx_10frames_34: 3325967860177029665
+      elemental-attack2_explosion_vfx_10frames_35: -2392152035482258520
+      elemental-attack2_explosion_vfx_10frames_36: 7373201675794542415
+      elemental-attack2_explosion_vfx_10frames_37: -716939569449020800
+      elemental-attack2_explosion_vfx_10frames_38: -563659671998448821
+      elemental-attack2_explosion_vfx_10frames_39: -1969891106404044443
+      elemental-attack2_explosion_vfx_10frames_4: -1860042232576646535
+      elemental-attack2_explosion_vfx_10frames_40: -799502249200139235
+      elemental-attack2_explosion_vfx_10frames_41: 3338143227434057150
+      elemental-attack2_explosion_vfx_10frames_42: -2910927493928194274
+      elemental-attack2_explosion_vfx_10frames_43: -3457118180964917639
+      elemental-attack2_explosion_vfx_10frames_44: 4009214477102933865
+      elemental-attack2_explosion_vfx_10frames_45: 8275836969155184686
+      elemental-attack2_explosion_vfx_10frames_46: -6283704145068948426
+      elemental-attack2_explosion_vfx_10frames_47: -6481358433550768340
+      elemental-attack2_explosion_vfx_10frames_48: -6876699112326275171
+      elemental-attack2_explosion_vfx_10frames_49: 5961018657554588471
+      elemental-attack2_explosion_vfx_10frames_5: 2242974048529695282
+      elemental-attack2_explosion_vfx_10frames_50: -8372590350819587833
+      elemental-attack2_explosion_vfx_10frames_51: -7642491444074771867
+      elemental-attack2_explosion_vfx_10frames_52: 9147450088827174202
+      elemental-attack2_explosion_vfx_10frames_53: -5650679771082880356
+      elemental-attack2_explosion_vfx_10frames_54: -4593666435178807194
+      elemental-attack2_explosion_vfx_10frames_55: -4181883664774122749
+      elemental-attack2_explosion_vfx_10frames_56: 9149916784555042292
+      elemental-attack2_explosion_vfx_10frames_57: 915172510358901833
+      elemental-attack2_explosion_vfx_10frames_58: 3885919110050808153
+      elemental-attack2_explosion_vfx_10frames_59: 1322864182535565481
+      elemental-attack2_explosion_vfx_10frames_6: 2537739443348231249
+      elemental-attack2_explosion_vfx_10frames_60: -8841591109593228072
+      elemental-attack2_explosion_vfx_10frames_61: 1873899340826986555
+      elemental-attack2_explosion_vfx_10frames_62: -6501863226624140041
+      elemental-attack2_explosion_vfx_10frames_63: 779179007033441620
+      elemental-attack2_explosion_vfx_10frames_64: 1915129773432050701
+      elemental-attack2_explosion_vfx_10frames_65: -2434764129985095508
+      elemental-attack2_explosion_vfx_10frames_66: -3636968648944517099
+      elemental-attack2_explosion_vfx_10frames_67: -8843633850425706058
+      elemental-attack2_explosion_vfx_10frames_68: -6604649784590591121
+      elemental-attack2_explosion_vfx_10frames_69: 73002263559641585
+      elemental-attack2_explosion_vfx_10frames_7: 5347344259827028444
+      elemental-attack2_explosion_vfx_10frames_8: -7526740417527821755
+      elemental-attack2_explosion_vfx_10frames_9: -2396852676918567466
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

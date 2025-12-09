@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      floating land shadow tileset_0: 6841908917920622161
+      floating land shadow tileset_1: 5002212545324332649
+      floating land shadow tileset_2: -1673953582262774103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

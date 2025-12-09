@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lava being spewed out-5-7frames_0: -5715282809648338529
+      lava being spewed out-5-7frames_1: 262394436982933036
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

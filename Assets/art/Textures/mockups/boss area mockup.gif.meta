@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      boss area mockup_0: 271388676802459328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

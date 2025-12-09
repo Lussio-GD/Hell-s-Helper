@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton 1 - animations-block FX_0: -80905307916509807
+      Skeleton 1 - animations-block FX_1: 3643458232049051063
+      Skeleton 1 - animations-block FX_2: 4402059885165553070
+      Skeleton 1 - animations-block FX_3: 8054900757887403281
+      Skeleton 1 - animations-block FX_4: -8282330550257150340
+      Skeleton 1 - animations-block FX_5: 4474993926756524163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

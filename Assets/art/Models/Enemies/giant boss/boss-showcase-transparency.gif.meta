@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      boss-showcase-transparency_0: 6925125750551039334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

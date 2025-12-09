@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton - animations-with rusty sword-atk 1_0: 768631900184135543
+      Skeleton - animations-with rusty sword-atk 1_1: 8557723347421492822
+      Skeleton - animations-with rusty sword-atk 1_10: -5659851733250553776
+      Skeleton - animations-with rusty sword-atk 1_11: -3107335072828817752
+      Skeleton - animations-with rusty sword-atk 1_12: -8537687163740353226
+      Skeleton - animations-with rusty sword-atk 1_13: 7820094209531369339
+      Skeleton - animations-with rusty sword-atk 1_14: 5419737234719186041
+      Skeleton - animations-with rusty sword-atk 1_15: 5375393794181457159
+      Skeleton - animations-with rusty sword-atk 1_16: -5885432532808371442
+      Skeleton - animations-with rusty sword-atk 1_17: 1159412412081646979
+      Skeleton - animations-with rusty sword-atk 1_18: 1347075128842237307
+      Skeleton - animations-with rusty sword-atk 1_19: -6542874037726076347
+      Skeleton - animations-with rusty sword-atk 1_2: -4104381279879466697
+      Skeleton - animations-with rusty sword-atk 1_20: -8046389509141088773
+      Skeleton - animations-with rusty sword-atk 1_21: 5314424950489000776
+      Skeleton - animations-with rusty sword-atk 1_3: 1795585615866217755
+      Skeleton - animations-with rusty sword-atk 1_4: -4716883574743891771
+      Skeleton - animations-with rusty sword-atk 1_5: -1253972964415257924
+      Skeleton - animations-with rusty sword-atk 1_6: -684727498154316907
+      Skeleton - animations-with rusty sword-atk 1_7: 1385473434363948085
+      Skeleton - animations-with rusty sword-atk 1_8: 2321143486678940440
+      Skeleton - animations-with rusty sword-atk 1_9: 4678316698162701071
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

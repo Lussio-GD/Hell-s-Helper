@@ -1222,7 +1222,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-attack1_20frames_0: -1406788381460162659
+      elemental-attack1_20frames_1: -5915335603520438539
+      elemental-attack1_20frames_10: 4451276058581443864
+      elemental-attack1_20frames_11: 4603443058895287777
+      elemental-attack1_20frames_12: -4771565800495910961
+      elemental-attack1_20frames_13: 6690506254114299448
+      elemental-attack1_20frames_14: -678297452328929190
+      elemental-attack1_20frames_15: 4759113665484663472
+      elemental-attack1_20frames_16: -6636107767288988098
+      elemental-attack1_20frames_17: 8471225366193000415
+      elemental-attack1_20frames_18: -5015270182267665796
+      elemental-attack1_20frames_19: 2284573067487078985
+      elemental-attack1_20frames_2: -879787349190553684
+      elemental-attack1_20frames_20: -6628199671470101411
+      elemental-attack1_20frames_21: 8644302424604270312
+      elemental-attack1_20frames_22: 3834262081589416387
+      elemental-attack1_20frames_23: 7116803580783091219
+      elemental-attack1_20frames_24: 8409945295941679868
+      elemental-attack1_20frames_25: 3886940969585419739
+      elemental-attack1_20frames_26: -1598385498067091127
+      elemental-attack1_20frames_27: 3303757691072038398
+      elemental-attack1_20frames_28: 1785454111663620699
+      elemental-attack1_20frames_29: -6079840905993692655
+      elemental-attack1_20frames_3: 208967976837025704
+      elemental-attack1_20frames_30: 8863484639226922086
+      elemental-attack1_20frames_31: -6660568759988552914
+      elemental-attack1_20frames_32: -6060513211625566671
+      elemental-attack1_20frames_33: -6152348338864230708
+      elemental-attack1_20frames_34: -994703424576318596
+      elemental-attack1_20frames_35: 5994148048935615868
+      elemental-attack1_20frames_36: -860435388610265561
+      elemental-attack1_20frames_37: -3257224173030040578
+      elemental-attack1_20frames_38: 3927248378652231721
+      elemental-attack1_20frames_39: -117380360821264402
+      elemental-attack1_20frames_4: 2852323206440011469
+      elemental-attack1_20frames_40: 1724878642808572630
+      elemental-attack1_20frames_41: -1810345493888346210
+      elemental-attack1_20frames_42: 496422889788588241
+      elemental-attack1_20frames_43: -7891124313993019971
+      elemental-attack1_20frames_5: 4875652651762603780
+      elemental-attack1_20frames_6: 8409473111887832460
+      elemental-attack1_20frames_7: 3429265116475090870
+      elemental-attack1_20frames_8: 9118975048999955896
+      elemental-attack1_20frames_9: 5487152398221167929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

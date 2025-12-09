@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mage Skeleton -projectile-loop_0: 822735027703761384
+      Mage Skeleton -projectile-loop_1: 1215684369460121293
+      Mage Skeleton -projectile-loop_10: -1420973184008925286
+      Mage Skeleton -projectile-loop_11: -8313567414014938387
+      Mage Skeleton -projectile-loop_12: -5382967346523853993
+      Mage Skeleton -projectile-loop_13: 6584104465186578733
+      Mage Skeleton -projectile-loop_14: -6923198040682443304
+      Mage Skeleton -projectile-loop_15: 3850065503041329294
+      Mage Skeleton -projectile-loop_2: -2936587608170341768
+      Mage Skeleton -projectile-loop_3: -2300775599949219733
+      Mage Skeleton -projectile-loop_4: -3336088641136289959
+      Mage Skeleton -projectile-loop_5: -7136797488933534821
+      Mage Skeleton -projectile-loop_6: -7379880922466093248
+      Mage Skeleton -projectile-loop_7: 6490200001469484882
+      Mage Skeleton -projectile-loop_8: -1239216905605409279
+      Mage Skeleton -projectile-loop_9: 2112775020955183452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

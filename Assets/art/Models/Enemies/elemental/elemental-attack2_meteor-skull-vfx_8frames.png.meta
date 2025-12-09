@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-attack2_meteor-skull-vfx_8frames_0: 98855084576910393
+      elemental-attack2_meteor-skull-vfx_8frames_1: 7935112079339489835
+      elemental-attack2_meteor-skull-vfx_8frames_10: 2110321926183057698
+      elemental-attack2_meteor-skull-vfx_8frames_11: 449685364315822759
+      elemental-attack2_meteor-skull-vfx_8frames_12: -3494287524273320233
+      elemental-attack2_meteor-skull-vfx_8frames_13: -5019438069384016801
+      elemental-attack2_meteor-skull-vfx_8frames_14: 4653991655333276878
+      elemental-attack2_meteor-skull-vfx_8frames_15: -8662675470937806274
+      elemental-attack2_meteor-skull-vfx_8frames_16: -2287340851368711757
+      elemental-attack2_meteor-skull-vfx_8frames_17: 6572375644976938129
+      elemental-attack2_meteor-skull-vfx_8frames_18: -5358954405404795031
+      elemental-attack2_meteor-skull-vfx_8frames_19: -7885773881358145527
+      elemental-attack2_meteor-skull-vfx_8frames_2: -6942148137989942923
+      elemental-attack2_meteor-skull-vfx_8frames_20: 3768465765659457189
+      elemental-attack2_meteor-skull-vfx_8frames_21: 788495787198880067
+      elemental-attack2_meteor-skull-vfx_8frames_22: -1376761334808226574
+      elemental-attack2_meteor-skull-vfx_8frames_23: -8240114641378301745
+      elemental-attack2_meteor-skull-vfx_8frames_24: 1773328025748291650
+      elemental-attack2_meteor-skull-vfx_8frames_25: -5627002168665473167
+      elemental-attack2_meteor-skull-vfx_8frames_3: 2416958022411613033
+      elemental-attack2_meteor-skull-vfx_8frames_4: 6575246227676322384
+      elemental-attack2_meteor-skull-vfx_8frames_5: -8621785749309815948
+      elemental-attack2_meteor-skull-vfx_8frames_6: 6650648279064251954
+      elemental-attack2_meteor-skull-vfx_8frames_7: -539994516097593266
+      elemental-attack2_meteor-skull-vfx_8frames_8: 8795157373960525512
+      elemental-attack2_meteor-skull-vfx_8frames_9: -754692511048191720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

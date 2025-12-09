@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      danger mark_0: 7565922521551790532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

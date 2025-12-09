@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tiny volcanos_2_0: -1841705466684308392
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

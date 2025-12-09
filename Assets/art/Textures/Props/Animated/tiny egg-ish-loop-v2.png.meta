@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tiny egg-ish-loop-v2_0: 7615781854880485477
+      tiny egg-ish-loop-v2_1: -6044541117105089617
+      tiny egg-ish-loop-v2_2: 6197925533009436234
+      tiny egg-ish-loop-v2_3: 2317102649128665930
+      tiny egg-ish-loop-v2_4: 7358532518548162545
+      tiny egg-ish-loop-v2_5: 3129987036956447421
+      tiny egg-ish-loop-v2_6: -1287550361045495052
+      tiny egg-ish-loop-v2_7: -7903249977015309777
+      tiny egg-ish-loop-v2_8: -223008106830123663
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

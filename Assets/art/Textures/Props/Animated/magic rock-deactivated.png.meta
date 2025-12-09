@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magic rock-deactivated_0: -3254442470544139704
+      magic rock-deactivated_1: 987839735878932789
+      magic rock-deactivated_10: -5013276265061470658
+      magic rock-deactivated_11: -8836955284598734053
+      magic rock-deactivated_2: -3924535530745637387
+      magic rock-deactivated_3: 2462293181424997199
+      magic rock-deactivated_4: 2296385046732989254
+      magic rock-deactivated_5: -6346760639283275311
+      magic rock-deactivated_6: -3961023666571244429
+      magic rock-deactivated_7: -6629815902358928219
+      magic rock-deactivated_8: -5585019967182846757
+      magic rock-deactivated_9: -560245525180666404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

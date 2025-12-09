@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      boss-showcase-transparency_0: 6925125750551039334
+      boss-showcase-transparency_1: -2952355754516421624
+      boss-showcase-transparency_2: 294546543232289468
+      boss-showcase-transparency_3: -3975643554142332180
+      boss-showcase-transparency_4: 4412847579846279949
+      boss-showcase-transparency_5: 8488585756602723813
+      boss-showcase-transparency_6: 439581621239658046
+      boss-showcase-transparency_7: -4135977833941279610
+      boss-showcase-transparency_8: 2933394153194705025
+      boss-showcase-transparency_9: 3479577464909757487
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

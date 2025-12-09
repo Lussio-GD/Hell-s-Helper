@@ -872,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portal or spawner vfx-v1_opening_0: 6783277417128252420
+      portal or spawner vfx-v1_opening_1: -8573236548227829271
+      portal or spawner vfx-v1_opening_10: 968830229430924446
+      portal or spawner vfx-v1_opening_11: 8900209197070428780
+      portal or spawner vfx-v1_opening_12: -8646274852525174984
+      portal or spawner vfx-v1_opening_13: 9048251304460297002
+      portal or spawner vfx-v1_opening_14: 3472031378951510230
+      portal or spawner vfx-v1_opening_15: -9027244763744151381
+      portal or spawner vfx-v1_opening_16: -5206172133967838940
+      portal or spawner vfx-v1_opening_17: 3837890372628612024
+      portal or spawner vfx-v1_opening_18: 2215147373450293560
+      portal or spawner vfx-v1_opening_19: -3854854886754188400
+      portal or spawner vfx-v1_opening_2: 2622704418688091978
+      portal or spawner vfx-v1_opening_20: -5615976000241779498
+      portal or spawner vfx-v1_opening_21: 106309461514305784
+      portal or spawner vfx-v1_opening_22: -3793063227304927510
+      portal or spawner vfx-v1_opening_23: -2879897191105601200
+      portal or spawner vfx-v1_opening_24: -8474092678726645346
+      portal or spawner vfx-v1_opening_25: -7427349062088045874
+      portal or spawner vfx-v1_opening_26: -4960625816588912898
+      portal or spawner vfx-v1_opening_27: 5758754257041165878
+      portal or spawner vfx-v1_opening_28: 7818850979147987622
+      portal or spawner vfx-v1_opening_29: -713316282213931534
+      portal or spawner vfx-v1_opening_3: 3379058424297694485
+      portal or spawner vfx-v1_opening_4: 3892900562154545206
+      portal or spawner vfx-v1_opening_5: 8141548282187647045
+      portal or spawner vfx-v1_opening_6: -5248021688876498815
+      portal or spawner vfx-v1_opening_7: 6968893569639160593
+      portal or spawner vfx-v1_opening_8: -2903778230296128206
+      portal or spawner vfx-v1_opening_9: 2963668830150453494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

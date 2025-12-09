@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated lava river spritesheet_0: -6942359555491957619
+      animated lava river spritesheet_1: 7573994174454601655
+      animated lava river spritesheet_2: -7314782133972958850
+      animated lava river spritesheet_3: -6513108150932251108
+      animated lava river spritesheet_4: 2016471529212414546
+      animated lava river spritesheet_5: -8127016353572491019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

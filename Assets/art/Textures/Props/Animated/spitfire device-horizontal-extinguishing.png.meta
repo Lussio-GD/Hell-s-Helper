@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spitfire device-horizontal-extinguishing_0: 7515490560615358138
+      spitfire device-horizontal-extinguishing_1: 6277278916072617221
+      spitfire device-horizontal-extinguishing_10: 8347446282708126078
+      spitfire device-horizontal-extinguishing_2: 1290285083984389657
+      spitfire device-horizontal-extinguishing_3: -6994136485709015681
+      spitfire device-horizontal-extinguishing_4: -7611830286532926471
+      spitfire device-horizontal-extinguishing_5: 7762434565825466390
+      spitfire device-horizontal-extinguishing_6: 7394287790505840418
+      spitfire device-horizontal-extinguishing_7: 8655444082970057960
+      spitfire device-horizontal-extinguishing_8: -6054273115251735641
+      spitfire device-horizontal-extinguishing_9: 4582440734947073138
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

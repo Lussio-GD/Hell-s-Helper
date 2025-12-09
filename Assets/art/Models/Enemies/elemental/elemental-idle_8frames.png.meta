@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-idle_8frames_0: -4985232127822291438
+      elemental-idle_8frames_1: -3730646717585662826
+      elemental-idle_8frames_2: 2735520135795470319
+      elemental-idle_8frames_3: -7470832755779561556
+      elemental-idle_8frames_4: 2850738361120212766
+      elemental-idle_8frames_5: -7879553157847527322
+      elemental-idle_8frames_6: -5108642957150209795
+      elemental-idle_8frames_7: -3275424946837029255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

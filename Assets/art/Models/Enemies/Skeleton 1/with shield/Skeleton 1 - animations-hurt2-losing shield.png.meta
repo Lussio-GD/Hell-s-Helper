@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton 1 - animations-hurt2-losing shield_0: 3565602844336009066
+      Skeleton 1 - animations-hurt2-losing shield_1: -6360502930242683692
+      Skeleton 1 - animations-hurt2-losing shield_2: -6456462182782871900
+      Skeleton 1 - animations-hurt2-losing shield_3: 7736161662672843827
+      Skeleton 1 - animations-hurt2-losing shield_4: 1008418284227598212
+      Skeleton 1 - animations-hurt2-losing shield_5: 692464415518004789
+      Skeleton 1 - animations-hurt2-losing shield_6: -8043969311593385480
+      Skeleton 1 - animations-hurt2-losing shield_7: 3778733545608753890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

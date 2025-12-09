@@ -1072,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton 1 - animations-death_0: -1667341324681186539
+      Skeleton 1 - animations-death_1: -6354749797083632168
+      Skeleton 1 - animations-death_10: 2813197829532294110
+      Skeleton 1 - animations-death_11: -1203267038558393008
+      Skeleton 1 - animations-death_12: 6390765370515918578
+      Skeleton 1 - animations-death_13: -5174020980894460442
+      Skeleton 1 - animations-death_14: 4230317480906402364
+      Skeleton 1 - animations-death_15: -6325837655881186100
+      Skeleton 1 - animations-death_16: -3580876014144478960
+      Skeleton 1 - animations-death_17: 8837087567535445101
+      Skeleton 1 - animations-death_18: -2797286878688657515
+      Skeleton 1 - animations-death_19: 4135140372742743605
+      Skeleton 1 - animations-death_2: -2901009321167678870
+      Skeleton 1 - animations-death_20: 2193679716546239679
+      Skeleton 1 - animations-death_21: -2176243534325210586
+      Skeleton 1 - animations-death_22: -2218114749288539124
+      Skeleton 1 - animations-death_23: -1734073895596351812
+      Skeleton 1 - animations-death_24: 7356776814469592629
+      Skeleton 1 - animations-death_25: 8675671804476893213
+      Skeleton 1 - animations-death_26: 8627338470363578561
+      Skeleton 1 - animations-death_27: -4460587542339027915
+      Skeleton 1 - animations-death_28: 4750582571624751514
+      Skeleton 1 - animations-death_29: -6559885269084909593
+      Skeleton 1 - animations-death_3: -8050429014627250301
+      Skeleton 1 - animations-death_30: -4103129295763519846
+      Skeleton 1 - animations-death_31: 3900249600878292051
+      Skeleton 1 - animations-death_32: 7343783544417894134
+      Skeleton 1 - animations-death_33: -7739198356490787287
+      Skeleton 1 - animations-death_34: 9017917753305235358
+      Skeleton 1 - animations-death_35: 3911429590035927431
+      Skeleton 1 - animations-death_36: 4973063826126954753
+      Skeleton 1 - animations-death_37: 6255944412867818585
+      Skeleton 1 - animations-death_4: -8334794713432244914
+      Skeleton 1 - animations-death_5: 2563330975313406130
+      Skeleton 1 - animations-death_6: -2866044142307236705
+      Skeleton 1 - animations-death_7: -8529645898934695423
+      Skeleton 1 - animations-death_8: -947067512854796537
+      Skeleton 1 - animations-death_9: 8438774017891294337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

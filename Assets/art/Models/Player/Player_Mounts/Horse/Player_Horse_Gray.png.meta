@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Horse_Gray_0: -3381526093963088547
+      Player_Horse_Gray_1: 8061729711305464895
+      Player_Horse_Gray_10: 2726874151844315720
+      Player_Horse_Gray_11: 7742296378300717796
+      Player_Horse_Gray_12: -2152930645408728601
+      Player_Horse_Gray_13: -2955952995347103783
+      Player_Horse_Gray_14: 9210595990671768804
+      Player_Horse_Gray_15: 7885836107844063500
+      Player_Horse_Gray_16: 5455291348896394098
+      Player_Horse_Gray_17: -217260501828508661
+      Player_Horse_Gray_18: 6957551842782722872
+      Player_Horse_Gray_19: 8938155493564822314
+      Player_Horse_Gray_2: -7249654336124974573
+      Player_Horse_Gray_20: -357964072512680450
+      Player_Horse_Gray_21: -4896570907019702553
+      Player_Horse_Gray_22: -7635859092067522144
+      Player_Horse_Gray_23: 3258344802084961148
+      Player_Horse_Gray_3: -8034138689442537824
+      Player_Horse_Gray_4: -345450851840159719
+      Player_Horse_Gray_5: -2437562532721749665
+      Player_Horse_Gray_6: 8211293904133621707
+      Player_Horse_Gray_7: -1186550332714670748
+      Player_Horse_Gray_8: 7490621659875939222
+      Player_Horse_Gray_9: -4291535529148607388
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

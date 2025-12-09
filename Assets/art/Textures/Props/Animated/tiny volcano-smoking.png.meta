@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tiny volcano-smoking_0: 5295425598591132641
+      tiny volcano-smoking_1: 4612003065260793986
+      tiny volcano-smoking_2: 5470274717428727713
+      tiny volcano-smoking_3: 863233234159801299
+      tiny volcano-smoking_4: 5870361937997851997
+      tiny volcano-smoking_5: -151744652500187313
+      tiny volcano-smoking_6: -9107853629978964431
+      tiny volcano-smoking_7: -1042263069060403555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

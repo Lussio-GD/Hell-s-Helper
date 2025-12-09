@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tool_Icons_NO_Outline_0: 9130803363031426823
+      Tool_Icons_NO_Outline_1: -1282944602755151201
+      Tool_Icons_NO_Outline_2: 6744079922437306869
+      Tool_Icons_NO_Outline_3: -6305548594305476506
+      Tool_Icons_NO_Outline_4: 2601603839896418933
+      Tool_Icons_NO_Outline_5: -8420260034705677426
+      Tool_Icons_NO_Outline_6: 4136355292219290567
+      Tool_Icons_NO_Outline_7: 3790121961809316798
+      Tool_Icons_NO_Outline_8: -1838514583939939511
+      Tool_Icons_NO_Outline_9: -4437435040923043834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

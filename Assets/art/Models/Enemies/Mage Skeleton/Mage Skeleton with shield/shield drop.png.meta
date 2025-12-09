@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shield drop_0: -7988756088665898538
+      shield drop_1: -7177876422365320667
+      shield drop_10: -8806785703742375975
+      shield drop_11: 5062028337286108366
+      shield drop_12: -5645511127693078372
+      shield drop_13: -7546160368895037571
+      shield drop_2: 6379320407703453877
+      shield drop_3: 5889318015848708237
+      shield drop_4: 8959938710043727632
+      shield drop_5: -4349651955962773269
+      shield drop_6: 3693241476305831938
+      shield drop_7: 774748035996133927
+      shield drop_8: 6684821028909448797
+      shield drop_9: -2333972610930027795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

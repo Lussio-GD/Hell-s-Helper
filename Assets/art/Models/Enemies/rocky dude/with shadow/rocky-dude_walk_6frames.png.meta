@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rocky-dude_walk_6frames_0: -4273007886260837711
+      rocky-dude_walk_6frames_1: -3943968029155689701
+      rocky-dude_walk_6frames_10: -5763551859423384167
+      rocky-dude_walk_6frames_11: 124657358767652864
+      rocky-dude_walk_6frames_2: 8622801006528808766
+      rocky-dude_walk_6frames_3: -2177552828233599504
+      rocky-dude_walk_6frames_4: 1049176169554178959
+      rocky-dude_walk_6frames_5: 6506915204945766810
+      rocky-dude_walk_6frames_6: 7719093343512567194
+      rocky-dude_walk_6frames_7: 4433886521784617982
+      rocky-dude_walk_6frames_8: 8423425297431852967
+      rocky-dude_walk_6frames_9: 6763454259439472349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

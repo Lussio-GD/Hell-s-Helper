@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton 1 - animations-idle_0: -158100232064199296
+      Skeleton 1 - animations-idle_1: 6860449311329710698
+      Skeleton 1 - animations-idle_2: 2888273205007299987
+      Skeleton 1 - animations-idle_3: -7860600862585433751
+      Skeleton 1 - animations-idle_4: 1186951889824093308
+      Skeleton 1 - animations-idle_5: 1532299918008792482
+      Skeleton 1 - animations-idle_6: -3484583728479272809
+      Skeleton 1 - animations-idle_7: 311047192631252110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

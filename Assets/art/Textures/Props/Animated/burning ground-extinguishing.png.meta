@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      burning ground-extinguishing_0: 5717785811970590232
+      burning ground-extinguishing_1: 2121813861324095428
+      burning ground-extinguishing_2: -8776083682388337886
+      burning ground-extinguishing_3: 2727873027074384655
+      burning ground-extinguishing_4: -7060085314639994107
+      burning ground-extinguishing_5: -6252088844441096587
+      burning ground-extinguishing_6: -692660316401930741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

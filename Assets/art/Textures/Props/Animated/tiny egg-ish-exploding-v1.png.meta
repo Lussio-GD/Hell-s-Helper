@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tiny egg-ish-exploding-v1_0: -5232409258588743584
+      tiny egg-ish-exploding-v1_1: 5975872056794836219
+      tiny egg-ish-exploding-v1_10: -373529332457150586
+      tiny egg-ish-exploding-v1_11: -97153374554648763
+      tiny egg-ish-exploding-v1_12: 8604868487572871123
+      tiny egg-ish-exploding-v1_13: 841832146101478122
+      tiny egg-ish-exploding-v1_14: -2944689824728100995
+      tiny egg-ish-exploding-v1_2: -2053620259146653419
+      tiny egg-ish-exploding-v1_3: -4815892795222563458
+      tiny egg-ish-exploding-v1_4: -2722654896058271111
+      tiny egg-ish-exploding-v1_5: 201828372548080721
+      tiny egg-ish-exploding-v1_6: 447363039665458544
+      tiny egg-ish-exploding-v1_7: -286202037079401517
+      tiny egg-ish-exploding-v1_8: 89870331938390307
+      tiny egg-ish-exploding-v1_9: 3645061351192755179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

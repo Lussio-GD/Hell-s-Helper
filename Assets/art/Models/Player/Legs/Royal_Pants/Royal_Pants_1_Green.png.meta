@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Royal_Pants_1_Green_0: 4584064732452951818
+      Royal_Pants_1_Green_1: -7922565021746235943
+      Royal_Pants_1_Green_10: -5625182691478237948
+      Royal_Pants_1_Green_11: 7130634627010430304
+      Royal_Pants_1_Green_12: 8578486584157239052
+      Royal_Pants_1_Green_2: -205387049265153865
+      Royal_Pants_1_Green_3: -4155606193845313670
+      Royal_Pants_1_Green_4: -1235887684358888600
+      Royal_Pants_1_Green_5: 1733209333928488669
+      Royal_Pants_1_Green_6: 3965923460986009288
+      Royal_Pants_1_Green_7: 8719734094838709000
+      Royal_Pants_1_Green_8: -6297830133488117582
+      Royal_Pants_1_Green_9: -8045560423623550474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lava ball-impact_0: -7421399394371587021
+      lava ball-impact_1: -335440594891247862
+      lava ball-impact_10: -8851093021674375142
+      lava ball-impact_11: -1844787059012169916
+      lava ball-impact_12: 7544621153967317483
+      lava ball-impact_13: -2011586697232432027
+      lava ball-impact_2: -6423952416408567118
+      lava ball-impact_3: -8692988306118669885
+      lava ball-impact_4: -3671912407966504961
+      lava ball-impact_5: 7260633406702513867
+      lava ball-impact_6: 5021918874579414455
+      lava ball-impact_7: -3315657561295623076
+      lava ball-impact_8: 2865468350651120988
+      lava ball-impact_9: -2665586764912776840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

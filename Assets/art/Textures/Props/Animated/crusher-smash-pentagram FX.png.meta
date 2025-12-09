@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crusher-smash-pentagram FX_0: -6066282867518982496
+      crusher-smash-pentagram FX_1: -4852674791431445615
+      crusher-smash-pentagram FX_2: 1565653476806639820
+      crusher-smash-pentagram FX_3: -3004737011596709566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tumor-loop-transparency_0: 3623676184772514857
+      tumor-loop-transparency_1: 5932411754908794655
+      tumor-loop-transparency_10: -1367014285379177290
+      tumor-loop-transparency_11: -8202932882657920256
+      tumor-loop-transparency_12: 8730035652650594255
+      tumor-loop-transparency_13: -7044444611562914871
+      tumor-loop-transparency_2: 5674718323305499498
+      tumor-loop-transparency_3: -4659185243309451372
+      tumor-loop-transparency_4: -8849753513686137929
+      tumor-loop-transparency_5: 5189052060411904623
+      tumor-loop-transparency_6: -3583763343055732524
+      tumor-loop-transparency_7: 6921196984099387554
+      tumor-loop-transparency_8: -7180131981610463853
+      tumor-loop-transparency_9: -2518079067956932914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

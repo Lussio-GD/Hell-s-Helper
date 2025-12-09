@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bone spikes-_0_0: -5504079018762569899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

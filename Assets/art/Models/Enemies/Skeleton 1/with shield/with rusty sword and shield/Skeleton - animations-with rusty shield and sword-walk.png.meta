@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton - animations-with rusty shield and sword-walk_0: -2528481873750744408
+      Skeleton - animations-with rusty shield and sword-walk_1: 7688513325037400649
+      Skeleton - animations-with rusty shield and sword-walk_2: -4853059033706381012
+      Skeleton - animations-with rusty shield and sword-walk_3: -1827557116268777235
+      Skeleton - animations-with rusty shield and sword-walk_4: -250629406118472720
+      Skeleton - animations-with rusty shield and sword-walk_5: -6345598518416014840
+      Skeleton - animations-with rusty shield and sword-walk_6: 8041911439822991680
+      Skeleton - animations-with rusty shield and sword-walk_7: 7234558326614634661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

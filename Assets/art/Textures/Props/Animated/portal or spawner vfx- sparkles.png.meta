@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portal or spawner vfx- sparkles_0: 6228091928971750404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

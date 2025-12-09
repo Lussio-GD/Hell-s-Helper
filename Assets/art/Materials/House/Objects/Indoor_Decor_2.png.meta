@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Indoor_Decor_2_0: 4196377636058933668
+      Indoor_Decor_2_1: -2695361773202174227
+      Indoor_Decor_2_2: 4550374014204861420
+      Indoor_Decor_2_3: 2912745098510120084
+      Indoor_Decor_2_4: 3487148627813817722
+      Indoor_Decor_2_5: -8226889627423168219
+      Indoor_Decor_2_6: -6906202549614704406
+      Indoor_Decor_2_7: -9023374257654583040
+      Indoor_Decor_2_8: -7789574998265313122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

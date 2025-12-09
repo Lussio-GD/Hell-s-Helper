@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spike-4-retreat_0: -3625149053315092143
+      spike-4-retreat_1: -8819570203726681194
+      spike-4-retreat_2: -1354117641575827036
+      spike-4-retreat_3: -6750107444450940102
+      spike-4-retreat_4: -3754299395122635181
+      spike-4-retreat_5: -2686301206626758426
+      spike-4-retreat_6: -3543260072880331962
+      spike-4-retreat_7: 7686369554010189235
+      spike-4-retreat_8: -4307825231158240328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

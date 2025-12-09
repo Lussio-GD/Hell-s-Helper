@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-attack2_loop_summoning-skull_9frames_0: -4428370022257934874
+      elemental-attack2_loop_summoning-skull_9frames_1: -3541187218513689630
+      elemental-attack2_loop_summoning-skull_9frames_2: 5926447788505281305
+      elemental-attack2_loop_summoning-skull_9frames_3: 3042762804985978947
+      elemental-attack2_loop_summoning-skull_9frames_4: 662192344100437243
+      elemental-attack2_loop_summoning-skull_9frames_5: 1291246126939194854
+      elemental-attack2_loop_summoning-skull_9frames_6: 853047807231108362
+      elemental-attack2_loop_summoning-skull_9frames_7: 5536988641093032400
+      elemental-attack2_loop_summoning-skull_9frames_8: -5265695346949257665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

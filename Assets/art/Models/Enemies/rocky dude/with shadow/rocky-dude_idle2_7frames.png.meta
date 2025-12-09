@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rocky-dude_idle2_7frames_0: -6654332288631691365
+      rocky-dude_idle2_7frames_1: -520159300954326675
+      rocky-dude_idle2_7frames_10: -7979853381752155522
+      rocky-dude_idle2_7frames_11: 4654849455662109730
+      rocky-dude_idle2_7frames_12: -3199576969050854855
+      rocky-dude_idle2_7frames_13: 2693001602813444732
+      rocky-dude_idle2_7frames_2: 4969359085673555964
+      rocky-dude_idle2_7frames_3: -1649069788518672960
+      rocky-dude_idle2_7frames_4: -5555165412465483340
+      rocky-dude_idle2_7frames_5: -888078800596497246
+      rocky-dude_idle2_7frames_6: -9215018141153789238
+      rocky-dude_idle2_7frames_7: -425190096850972969
+      rocky-dude_idle2_7frames_8: -1473914691141915254
+      rocky-dude_idle2_7frames_9: -5715208906469707299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

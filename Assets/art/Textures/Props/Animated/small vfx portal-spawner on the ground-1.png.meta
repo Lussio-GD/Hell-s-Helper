@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      small vfx portal-spawner on the ground-1_0: -8523588739817349193
+      small vfx portal-spawner on the ground-1_1: -3667327192906568145
+      small vfx portal-spawner on the ground-1_2: 2499104061326094658
+      small vfx portal-spawner on the ground-1_3: -7593030519183316443
+      small vfx portal-spawner on the ground-1_4: 5867804242091869939
+      small vfx portal-spawner on the ground-1_5: -7929783340522212988
+      small vfx portal-spawner on the ground-1_6: 1038426783911106608
+      small vfx portal-spawner on the ground-1_7: 8299346884175573277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

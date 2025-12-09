@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crusher-retreat-pentagram FX_0: 3651514506603550177
+      crusher-retreat-pentagram FX_1: -3411111029361282726
+      crusher-retreat-pentagram FX_2: -218461166921469572
+      crusher-retreat-pentagram FX_3: 5119122618406678066
+      crusher-retreat-pentagram FX_4: 2213081142811819711
+      crusher-retreat-pentagram FX_5: -3655827556824206766
+      crusher-retreat-pentagram FX_6: -1683858767479004580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

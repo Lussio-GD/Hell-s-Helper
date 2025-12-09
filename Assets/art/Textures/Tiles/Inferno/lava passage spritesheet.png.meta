@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lava passage spritesheet_0: 8641642767535310760
+      lava passage spritesheet_1: 7726704005662377835
+      lava passage spritesheet_2: 5720811882733824519
+      lava passage spritesheet_3: -8682625713683750120
+      lava passage spritesheet_4: -9196848671229355944
+      lava passage spritesheet_5: -701447336450630158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

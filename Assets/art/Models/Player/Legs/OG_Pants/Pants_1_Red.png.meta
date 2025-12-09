@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pants_1_Red_0: 77479679630212274
+      Pants_1_Red_1: -854709910082177260
+      Pants_1_Red_10: 1897091177596174971
+      Pants_1_Red_11: 5781262013094529286
+      Pants_1_Red_12: -2532775761701867527
+      Pants_1_Red_2: 6424963816474264757
+      Pants_1_Red_3: 9138098025018063718
+      Pants_1_Red_4: 691879166483477502
+      Pants_1_Red_5: -2192670331237446406
+      Pants_1_Red_6: -2632614413886362322
+      Pants_1_Red_7: -1065731615064241468
+      Pants_1_Red_8: 2436754100866137030
+      Pants_1_Red_9: 781110156422215886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

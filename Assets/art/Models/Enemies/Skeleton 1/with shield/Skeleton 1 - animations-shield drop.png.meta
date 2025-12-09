@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton 1 - animations-shield drop_0: 1570204605947484790
+      Skeleton 1 - animations-shield drop_1: -8287525439058792009
+      Skeleton 1 - animations-shield drop_10: 7508577289201173207
+      Skeleton 1 - animations-shield drop_11: 8418815361585401625
+      Skeleton 1 - animations-shield drop_12: 7993876228682535680
+      Skeleton 1 - animations-shield drop_13: -8035118371293147550
+      Skeleton 1 - animations-shield drop_2: -1428896504579266773
+      Skeleton 1 - animations-shield drop_3: -1287042167617145666
+      Skeleton 1 - animations-shield drop_4: 1036294613365490789
+      Skeleton 1 - animations-shield drop_5: -9173613783981234997
+      Skeleton 1 - animations-shield drop_6: -3084722006284849666
+      Skeleton 1 - animations-shield drop_7: -5733748004935308562
+      Skeleton 1 - animations-shield drop_8: -7896325221858509294
+      Skeleton 1 - animations-shield drop_9: 5209716868608182734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

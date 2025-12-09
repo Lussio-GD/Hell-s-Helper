@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-attack2_prep_8frames_0: -5376970289599315813
+      elemental-attack2_prep_8frames_1: 3456730502857699534
+      elemental-attack2_prep_8frames_2: 5034396395531065990
+      elemental-attack2_prep_8frames_3: -3105124748532581222
+      elemental-attack2_prep_8frames_4: -4829644447989328931
+      elemental-attack2_prep_8frames_5: -5160295994721582268
+      elemental-attack2_prep_8frames_6: 7525395340374519119
+      elemental-attack2_prep_8frames_7: 1623773005735946981
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

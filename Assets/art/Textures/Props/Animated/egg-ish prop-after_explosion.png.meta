@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      egg-ish prop-after_explosion_0: 4335118253459067835
+      egg-ish prop-after_explosion_1: 5699106325368112829
+      egg-ish prop-after_explosion_10: -7395460932542310380
+      egg-ish prop-after_explosion_11: -3150374733940405581
+      egg-ish prop-after_explosion_12: -942345965471789382
+      egg-ish prop-after_explosion_13: -3610288729947926641
+      egg-ish prop-after_explosion_14: 5975787827366859947
+      egg-ish prop-after_explosion_15: 4271380295150171979
+      egg-ish prop-after_explosion_16: 8507697472094302280
+      egg-ish prop-after_explosion_17: -1892835222533896453
+      egg-ish prop-after_explosion_2: -355880501002916556
+      egg-ish prop-after_explosion_3: -8600797149444040407
+      egg-ish prop-after_explosion_4: -1379606286524901421
+      egg-ish prop-after_explosion_5: -7942304705359863829
+      egg-ish prop-after_explosion_6: -6799456094630743253
+      egg-ish prop-after_explosion_7: -1290380716105969748
+      egg-ish prop-after_explosion_8: 4536448130762577614
+      egg-ish prop-after_explosion_9: 3921473955089706134
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

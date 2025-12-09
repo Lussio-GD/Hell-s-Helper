@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Horse_White_0: -2452431006669617220
+      Player_Horse_White_1: -3902678880103135979
+      Player_Horse_White_10: 6016963122474720963
+      Player_Horse_White_11: -5799523480771896855
+      Player_Horse_White_12: 3723643770691707803
+      Player_Horse_White_13: 5171921329302959956
+      Player_Horse_White_14: 3237587332032029817
+      Player_Horse_White_15: -6835282865145220056
+      Player_Horse_White_16: 1289833942786890204
+      Player_Horse_White_17: 346562561241486022
+      Player_Horse_White_18: 3526174686212828309
+      Player_Horse_White_19: -7577525509465235001
+      Player_Horse_White_2: -7642358556266935838
+      Player_Horse_White_20: -9058641606644533361
+      Player_Horse_White_21: -904882771811364846
+      Player_Horse_White_22: -6893158699011970681
+      Player_Horse_White_23: -5864442446492186146
+      Player_Horse_White_3: 8163273917953628446
+      Player_Horse_White_4: -9216370063279663867
+      Player_Horse_White_5: 8383611492918900954
+      Player_Horse_White_6: 6243656176008321281
+      Player_Horse_White_7: 4817878911233592588
+      Player_Horse_White_8: 2699006677561088612
+      Player_Horse_White_9: -1360818111988478189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

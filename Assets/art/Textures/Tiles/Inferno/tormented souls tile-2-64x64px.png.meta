@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tormented souls tile-2-64x64px_0: -9073682204898249656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sharp rocks_1_0: 7432542449806785635
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

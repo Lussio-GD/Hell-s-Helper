@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lava-16frames-subtle variation2_0: -6007054544052817038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

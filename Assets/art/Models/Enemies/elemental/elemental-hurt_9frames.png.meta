@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elemental-hurt_9frames_0: 7978183157173072725
+      elemental-hurt_9frames_1: -5574243484970910675
+      elemental-hurt_9frames_2: 6912244569086229963
+      elemental-hurt_9frames_3: -1781680408124282990
+      elemental-hurt_9frames_4: 2741722908127073680
+      elemental-hurt_9frames_5: 3463454609003060654
+      elemental-hurt_9frames_6: -6470949576028664089
+      elemental-hurt_9frames_7: 7463375396222358716
+      elemental-hurt_9frames_8: 1564177801357964848
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

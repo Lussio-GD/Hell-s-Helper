@@ -997,7 +997,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spitfire device-vertical-starting-flame_0: 4583262626351602597
+      spitfire device-vertical-starting-flame_1: -2892763638584032045
+      spitfire device-vertical-starting-flame_10: 4669499833064051575
+      spitfire device-vertical-starting-flame_11: 7322667797178234321
+      spitfire device-vertical-starting-flame_12: 5802260765701194789
+      spitfire device-vertical-starting-flame_13: -7492442391603292116
+      spitfire device-vertical-starting-flame_14: -6544330627435287989
+      spitfire device-vertical-starting-flame_15: 3825511124622822954
+      spitfire device-vertical-starting-flame_16: -7895595920211558145
+      spitfire device-vertical-starting-flame_17: 41956276138782001
+      spitfire device-vertical-starting-flame_18: -4472240705215556464
+      spitfire device-vertical-starting-flame_19: -8961536774445323946
+      spitfire device-vertical-starting-flame_2: 9096438077475575725
+      spitfire device-vertical-starting-flame_20: 7934583822071044810
+      spitfire device-vertical-starting-flame_21: 3746318162964054494
+      spitfire device-vertical-starting-flame_22: 5687228352208021331
+      spitfire device-vertical-starting-flame_23: 8460199338568542753
+      spitfire device-vertical-starting-flame_24: 5623376167852209828
+      spitfire device-vertical-starting-flame_25: 9018035839132288769
+      spitfire device-vertical-starting-flame_26: -2297466470944783718
+      spitfire device-vertical-starting-flame_27: 3256589208547159444
+      spitfire device-vertical-starting-flame_28: 6217927365297913277
+      spitfire device-vertical-starting-flame_29: -6977542035296940496
+      spitfire device-vertical-starting-flame_3: -6942075189818878344
+      spitfire device-vertical-starting-flame_30: -498526160697405319
+      spitfire device-vertical-starting-flame_31: -5899410498836467876
+      spitfire device-vertical-starting-flame_32: 7352076490568110042
+      spitfire device-vertical-starting-flame_33: -440080020423225659
+      spitfire device-vertical-starting-flame_34: 8901049289202782335
+      spitfire device-vertical-starting-flame_4: 630211721640071026
+      spitfire device-vertical-starting-flame_5: 5986219770197979024
+      spitfire device-vertical-starting-flame_6: -63246958592228856
+      spitfire device-vertical-starting-flame_7: 6144861861609892579
+      spitfire device-vertical-starting-flame_8: 6454296410265142595
+      spitfire device-vertical-starting-flame_9: -9186045889176174316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

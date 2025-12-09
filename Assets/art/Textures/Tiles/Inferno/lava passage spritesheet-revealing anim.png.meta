@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lava passage spritesheet-revealing anim_0: 2898981517777152252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

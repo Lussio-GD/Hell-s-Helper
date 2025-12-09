@@ -997,7 +997,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spitfire device-horizontal-starting-flame_0: 2697772148427443703
+      spitfire device-horizontal-starting-flame_1: 5444389983551417152
+      spitfire device-horizontal-starting-flame_10: -1674373691414926841
+      spitfire device-horizontal-starting-flame_11: -7728716235172109881
+      spitfire device-horizontal-starting-flame_12: 8294111630296855742
+      spitfire device-horizontal-starting-flame_13: -5065211931027670816
+      spitfire device-horizontal-starting-flame_14: 5709361155520212559
+      spitfire device-horizontal-starting-flame_15: -1130665788791586496
+      spitfire device-horizontal-starting-flame_16: 2459704594265818270
+      spitfire device-horizontal-starting-flame_17: -3994574792568482193
+      spitfire device-horizontal-starting-flame_18: 845182318991880609
+      spitfire device-horizontal-starting-flame_19: -9024995944418763088
+      spitfire device-horizontal-starting-flame_2: -1189268837804339676
+      spitfire device-horizontal-starting-flame_20: -1594930347691488393
+      spitfire device-horizontal-starting-flame_21: 2344165953845205172
+      spitfire device-horizontal-starting-flame_22: -8012420109481053510
+      spitfire device-horizontal-starting-flame_23: -927922037157305435
+      spitfire device-horizontal-starting-flame_24: -6139798144473529967
+      spitfire device-horizontal-starting-flame_25: -7536999862644056268
+      spitfire device-horizontal-starting-flame_26: -8911312927989070416
+      spitfire device-horizontal-starting-flame_27: 1765570936047773948
+      spitfire device-horizontal-starting-flame_28: 4819679500028367457
+      spitfire device-horizontal-starting-flame_29: 6426815036939270460
+      spitfire device-horizontal-starting-flame_3: -4464683904702709687
+      spitfire device-horizontal-starting-flame_30: 2500736683089292871
+      spitfire device-horizontal-starting-flame_31: -8264068464692522243
+      spitfire device-horizontal-starting-flame_32: 1129080058994927213
+      spitfire device-horizontal-starting-flame_33: 6477638179167920160
+      spitfire device-horizontal-starting-flame_34: -6715238427899453717
+      spitfire device-horizontal-starting-flame_4: -2940425938705072679
+      spitfire device-horizontal-starting-flame_5: -7146775078412551763
+      spitfire device-horizontal-starting-flame_6: -5644094577679898840
+      spitfire device-horizontal-starting-flame_7: 6402517623610115577
+      spitfire device-horizontal-starting-flame_8: -5502836323251065363
+      spitfire device-horizontal-starting-flame_9: -2876512955143383595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

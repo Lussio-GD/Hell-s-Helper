@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lava ball-flying_0: 2174484976402790727
+      lava ball-flying_1: 5728439761137055689
+      lava ball-flying_2: 3750026654690139219
+      lava ball-flying_3: 8361704063478019497
+      lava ball-flying_4: -5623135250234923329
+      lava ball-flying_5: -69621119714549058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

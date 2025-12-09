@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mage Skeleton -projectile-destroy2_0: -2273872230930745971
+      Mage Skeleton -projectile-destroy2_1: 4854285435688384077
+      Mage Skeleton -projectile-destroy2_2: -8454975183941934039
+      Mage Skeleton -projectile-destroy2_3: -4489885893754214182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

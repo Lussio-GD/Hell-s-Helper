@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      egg-ish prop-standby_0: 6081919855996284217
+      egg-ish prop-standby_1: 7482524587306593649
+      egg-ish prop-standby_2: -2876327200757178592
+      egg-ish prop-standby_3: -137898361523094856
+      egg-ish prop-standby_4: -6526946686977020990
+      egg-ish prop-standby_5: -954488128635777797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      imp-lava-pool_growing_11frames_0: 1293731048789941279
+      imp-lava-pool_growing_11frames_1: 4174122753303003760
+      imp-lava-pool_growing_11frames_10: 6601610293364677240
+      imp-lava-pool_growing_11frames_2: 2152513386472215844
+      imp-lava-pool_growing_11frames_3: -3892512777118797664
+      imp-lava-pool_growing_11frames_4: -3400551078753594202
+      imp-lava-pool_growing_11frames_5: -8409016972748357533
+      imp-lava-pool_growing_11frames_6: -8550586268133974400
+      imp-lava-pool_growing_11frames_7: 1985266796515320625
+      imp-lava-pool_growing_11frames_8: -5967081081822409805
+      imp-lava-pool_growing_11frames_9: -5237881476872858728
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

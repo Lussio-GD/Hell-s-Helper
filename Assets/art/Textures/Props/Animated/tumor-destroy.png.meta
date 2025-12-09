@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tumor-destroy_0: -2016961587742370745
+      tumor-destroy_1: 5177590123500565468
+      tumor-destroy_10: 1469634488709816542
+      tumor-destroy_2: 5223559425316887153
+      tumor-destroy_3: -7767158392826734100
+      tumor-destroy_4: -7623465151720695485
+      tumor-destroy_5: 6666011834768649049
+      tumor-destroy_6: 702506031882048122
+      tumor-destroy_7: -168491292936441970
+      tumor-destroy_8: 4236562563803488988
+      tumor-destroy_9: -1655263796627326498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

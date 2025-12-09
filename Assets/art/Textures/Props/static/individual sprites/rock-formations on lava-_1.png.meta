@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock-formations on lava-_1_0: -4424329303067062074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

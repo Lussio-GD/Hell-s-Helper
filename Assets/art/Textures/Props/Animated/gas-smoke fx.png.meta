@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gas-smoke fx_0: 3468691399234927587
+      gas-smoke fx_1: 808029049275026507
+      gas-smoke fx_10: -8189108618835000733
+      gas-smoke fx_11: -5642752013665100884
+      gas-smoke fx_12: 5329707986852801035
+      gas-smoke fx_13: 7351820452962055359
+      gas-smoke fx_14: -3158724624101667849
+      gas-smoke fx_15: -5115053177304067136
+      gas-smoke fx_16: 5970262913365834681
+      gas-smoke fx_17: -6991843990158270567
+      gas-smoke fx_2: -1362839039576411518
+      gas-smoke fx_3: -8609372094826989358
+      gas-smoke fx_4: -8334252185302657863
+      gas-smoke fx_5: 6340163630399952474
+      gas-smoke fx_6: -998709900399453749
+      gas-smoke fx_7: -7625976425231909310
+      gas-smoke fx_8: 5524929610524047908
+      gas-smoke fx_9: 1462072272225044665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

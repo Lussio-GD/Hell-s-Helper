@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      burning ground-loop_0: -5848136960564869433
+      burning ground-loop_1: -1728709784953817442
+      burning ground-loop_2: -7142750774891384152
+      burning ground-loop_3: -4779085863081809611
+      burning ground-loop_4: -7468431491282155956
+      burning ground-loop_5: -6142352541624050892
+      burning ground-loop_6: 3764481001163602972
+      burning ground-loop_7: -168667621250357353
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

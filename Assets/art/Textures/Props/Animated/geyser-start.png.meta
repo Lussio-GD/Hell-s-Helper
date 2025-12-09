@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      geyser-start_0: 2445547585889744277
+      geyser-start_1: 1452963259502732411
+      geyser-start_10: 6167210231664506646
+      geyser-start_11: 7147711850575363852
+      geyser-start_12: 5177977078306579197
+      geyser-start_13: 3938888185166987108
+      geyser-start_14: -3195710806538400164
+      geyser-start_15: 6405704060310276842
+      geyser-start_16: -7129948747931096101
+      geyser-start_17: -1686385107776995759
+      geyser-start_18: -3169317010785358494
+      geyser-start_19: 7955001331111049340
+      geyser-start_2: -6725363097953275099
+      geyser-start_20: 6473053515770384627
+      geyser-start_21: 867353191203103539
+      geyser-start_22: 828008192904447729
+      geyser-start_23: 4631967067726879724
+      geyser-start_24: -1727525440697575673
+      geyser-start_25: -2983930707820722566
+      geyser-start_26: 1499230751796542209
+      geyser-start_27: 516249630927337935
+      geyser-start_3: -749388475158977214
+      geyser-start_4: 2465629927722070778
+      geyser-start_5: -6105082558907972055
+      geyser-start_6: 417744648058602176
+      geyser-start_7: 5617377155067556466
+      geyser-start_8: 1931200469712449832
+      geyser-start_9: 348792404308147456
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

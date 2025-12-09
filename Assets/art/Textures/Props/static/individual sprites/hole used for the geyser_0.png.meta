@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hole used for the geyser_0_0: -2764963640470898956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
