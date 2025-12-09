@@ -59,7 +59,7 @@ public class GameManager : MonoBehaviour
 
         Debug.Log($"Total enemies found: {totalEnemies}");
 
-        // Debug: List all enemies found
+        
         foreach (GameObject enemy in enemies)
         {
             Debug.Log($"Enemy found: {enemy.name}");
@@ -75,7 +75,7 @@ public class GameManager : MonoBehaviour
 
         UpdateUI();
 
-        // Check win condition - use >= for safety
+        
         if (totalEnemies > 0 && enemiesKilled >= totalEnemies)
         {
             Debug.Log($"Win condition met! Killed: {enemiesKilled}, Total: {totalEnemies}");

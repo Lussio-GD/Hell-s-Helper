@@ -15,7 +15,7 @@ public class MenuAudioManager : MonoBehaviour
 
     void Awake()
     {
-        // Singleton pattern with proper scene management
+        
         if (instance == null)
         {
             instance = this;
@@ -33,7 +33,7 @@ public class MenuAudioManager : MonoBehaviour
 
     void OnDestroy()
     {
-        // Clean up event
+        
         if (instance == this)
         {
             SceneManager.sceneLoaded -= OnSceneLoaded;
@@ -44,7 +44,7 @@ public class MenuAudioManager : MonoBehaviour
     {
         Debug.Log($"Scene loaded: {scene.name}");
 
-        // Play music only in menu scenes
+        
         if (scene.name == "MainMenu" || scene.name == "CreditsScene")
         {
             PlayBackgroundMusic();
@@ -57,24 +57,24 @@ public class MenuAudioManager : MonoBehaviour
 
     void InitializeAudioSources()
     {
-        // Set up music audio source
+        
         if (musicSource == null)
         {
             musicSource = gameObject.AddComponent<AudioSource>();
         }
 
-        // Set up SFX audio source
+        
         if (audioSource == null)
         {
             audioSource = gameObject.AddComponent<AudioSource>();
-            audioSource.spatialBlend = 0f; // 2D sound
+            audioSource.spatialBlend = 0f; 
             audioSource.volume = 0.8f;
         }
 
-        // Configure music source
+        
         musicSource.loop = true;
         musicSource.volume = 0.6f;
-        musicSource.spatialBlend = 0f; // 2D music
+        musicSource.spatialBlend = 0f; 
     }
 
     void PlayBackgroundMusic()
@@ -131,13 +131,13 @@ public class MenuAudioManager : MonoBehaviour
         PlayBackgroundMusic();
     }
 
-    // Static method to easily access the audio manager from any script
+    
     public static MenuAudioManager GetInstance()
     {
         return instance;
     }
 
-    // Public method to check if audio manager is working
+    
     public bool IsAudioWorking()
     {
         return audioSource != null && musicSource != null;

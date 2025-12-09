@@ -5,9 +5,9 @@ using System.Collections;
 public class PlayerHealthBar : MonoBehaviour
 {
     [Header("UI References - DRAG THESE IN INSPECTOR")]
-    public Image healthFillImage;          // The green bar that shrinks
-    public Image healthFrameImage;         // Your frame/border
-    public Image healthOverlayImage;       // Your decorative overlay
+    public Image healthFillImage;         
+    public Image healthFrameImage;         
+    public Image healthOverlayImage;      
 
     [Header("Color Settings")]
     public Color fullHealthColor = Color.green;
@@ -16,16 +16,16 @@ public class PlayerHealthBar : MonoBehaviour
     public Color frameFlashColor = Color.white;
 
     [Header("Animation Settings")]
-    public float updateSpeed = 10f;        // How fast health bar updates
-    public float damageShakeAmount = 5f;   // How much it shakes when damaged
+    public float updateSpeed = 10f;       
+    public float damageShakeAmount = 5f; 
     public float damageShakeDuration = 0.2f;
-    public float healPulseAmount = 1.2f;   // How much it scales when healing
+    public float healPulseAmount = 1.2f;  
     public float healPulseDuration = 0.3f;
 
     [Header("Player Reference")]
-    public PlayerHealth playerHealth;      // Your existing PlayerHealth script
+    public PlayerHealth playerHealth;     
 
-    // Private variables
+
     private float currentDisplayHealth = 1f;
     private Vector3 originalPosition;
     private Color originalFrameColor;
@@ -38,7 +38,7 @@ public class PlayerHealthBar : MonoBehaviour
 
     void InitializeHealthBar()
     {
-        // Get references if not set
+
         if (playerHealth == null)
         {
             GameObject player = GameObject.FindGameObjectWithTag("Player");
@@ -60,13 +60,13 @@ public class PlayerHealthBar : MonoBehaviour
             return;
         }
 
-        // Store original values
+
         originalPosition = healthFillImage.rectTransform.localPosition;
 
         if (healthFrameImage != null)
             originalFrameColor = healthFrameImage.color;
 
-        // Set initial health
+
         currentDisplayHealth = (float)playerHealth.GetCurrentHealth() / playerHealth.GetMaxHealth();
         healthFillImage.fillAmount = currentDisplayHealth;
 
@@ -84,16 +84,16 @@ public class PlayerHealthBar : MonoBehaviour
 
     void UpdateHealthDisplay()
     {
-        // Calculate target health (0 to 1)
+
         float targetHealth = (float)playerHealth.GetCurrentHealth() / playerHealth.GetMaxHealth();
 
-        // Smoothly move toward target health
+
         currentDisplayHealth = Mathf.Lerp(currentDisplayHealth, targetHealth, Time.deltaTime * updateSpeed);
 
-        // Update the fill amount
+
         healthFillImage.fillAmount = currentDisplayHealth;
 
-        // Update color based on health percentage
+
         UpdateHealthColor(targetHealth);
     }
 
@@ -101,7 +101,7 @@ public class PlayerHealthBar : MonoBehaviour
     {
         if (healthFillImage == null) return;
 
-        // Change color based on health
+
         if (healthPercentage > 0.6f)
         {
             healthFillImage.color = fullHealthColor;
@@ -116,28 +116,28 @@ public class PlayerHealthBar : MonoBehaviour
         }
     }
 
-    // Call this when player takes damage (from your PlayerHealth script)
+
     public void OnPlayerDamaged(int damageAmount)
     {
         if (!isInitialized) return;
+        
 
-        // Shake effect
         StartCoroutine(ShakeHealthBar());
 
-        // Flash frame
+
         StartCoroutine(FlashFrame());
     }
 
-    // Call this when player heals
+
     public void OnPlayerHealed(int healAmount)
     {
         if (!isInitialized) return;
 
-        // Pulse effect
+
         StartCoroutine(PulseHealthBar());
     }
 
-    // Animation Coroutines
+
     private IEnumerator ShakeHealthBar()
     {
         float elapsed = 0f;
@@ -146,17 +146,17 @@ public class PlayerHealthBar : MonoBehaviour
         {
             elapsed += Time.deltaTime;
 
-            // Calculate shake offset
+
             float x = Random.Range(-1f, 1f) * damageShakeAmount;
             float y = Random.Range(-1f, 1f) * damageShakeAmount;
 
-            // Apply shake to fill image
+
             healthFillImage.rectTransform.localPosition = originalPosition + new Vector3(x, y, 0);
 
             yield return null;
         }
 
-        // Reset position
+
         healthFillImage.rectTransform.localPosition = originalPosition;
     }
 
@@ -164,13 +164,13 @@ public class PlayerHealthBar : MonoBehaviour
     {
         if (healthFrameImage == null) yield break;
 
-        // Flash to white
+
         healthFrameImage.color = frameFlashColor;
 
-        // Wait briefly
+
         yield return new WaitForSeconds(0.1f);
 
-        // Return to original color
+
         healthFrameImage.color = originalFrameColor;
     }
 
@@ -182,7 +182,7 @@ public class PlayerHealthBar : MonoBehaviour
         Vector3 originalScale = fillRect.localScale;
         Vector3 targetScale = originalScale * healPulseAmount;
 
-        // Scale up
+
         float elapsed = 0f;
         while (elapsed < healPulseDuration / 2f)
         {
@@ -192,7 +192,7 @@ public class PlayerHealthBar : MonoBehaviour
             yield return null;
         }
 
-        // Scale down
+
         elapsed = 0f;
         while (elapsed < healPulseDuration / 2f)
         {
@@ -202,11 +202,11 @@ public class PlayerHealthBar : MonoBehaviour
             yield return null;
         }
 
-        // Ensure back to original
+
         fillRect.localScale = originalScale;
     }
 
-    // Public method to update health bar manually
+
     public void ForceUpdate()
     {
         if (playerHealth != null && healthFillImage != null)
@@ -218,7 +218,7 @@ public class PlayerHealthBar : MonoBehaviour
         }
     }
 
-    // Debug method for testing
+
     public void TestDamage(int amount = 10)
     {
         if (playerHealth != null)
@@ -228,12 +228,12 @@ public class PlayerHealthBar : MonoBehaviour
         }
     }
 
-    // Simple test from keyboard
+
     void Update2()
     {
         if (!isInitialized) return;
 
-        // Test with keyboard (remove in final game)
+
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             TestDamage(10);

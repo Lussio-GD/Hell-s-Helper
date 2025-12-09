@@ -18,7 +18,7 @@ public class ButtonSound : MonoBehaviour, IPointerClickHandler, IPointerEnterHan
         }
     }
 
-    // This gets called when button is clicked
+    
     public void OnPointerClick(PointerEventData eventData)
     {
         Debug.Log("Button clicked: " + gameObject.name);
@@ -28,7 +28,7 @@ public class ButtonSound : MonoBehaviour, IPointerClickHandler, IPointerEnterHan
         }
     }
 
-    // This gets called when mouse hovers over button
+    
     public void OnPointerEnter(PointerEventData eventData)
     {
         Debug.Log("Button hover: " + gameObject.name);

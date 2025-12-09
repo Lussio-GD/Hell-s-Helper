@@ -33,7 +33,7 @@ public class PlayerCombat : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
 
-        // Audio Source setup
+
         if (audioSource == null)
         {
             audioSource = GetComponent<AudioSource>();
